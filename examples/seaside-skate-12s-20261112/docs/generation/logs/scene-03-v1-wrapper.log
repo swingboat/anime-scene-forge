@@ -1,0 +1,26 @@
+{
+  "mode": "i2v",
+  "backend": "ltx-2-mlx",
+  "sourceCommit": "747b30ef10e92a011e85b2aa0f6c4ee86ced5218",
+  "modelRevisions": {
+    "dgrauet/ltx-2.3-mlx-q4": "f306259444116d71927188af2fbbf7fdc1a8089a",
+    "mlx-community/gemma-3-12b-it-4bit": "86cc6a8dedbc456dd0e4af01a9d09f396f77e558"
+  },
+  "image": "public/art/scene-03.png",
+  "imageSha256": "53cd3190ee4b6c831555914acd6d5a73825564aafa40c67ad1ecea225b74370a",
+  "promptFile": "docs/prompts/scene-03-video.txt",
+  "promptSha256": "3814698320ba5c71b5271c22621a9028dbb32b7be7aaa1900e458defc51e7b40",
+  "prompt": "Preserve the hand-drawn character design and the hand-painted gouache background texture in continuous natural-speed animation. Use subtle believable breathing, gaze and weight shifts, with a small motivated character action. Where the scene contains wind, let hair, cloth and vegetation respond coherently with slightly different timing. Maintain painted surfaces, spatial depth and stable facial identity without texture boiling. Honor the specified camera; give the chosen action room to settle instead of adding unrequested cuts or events.\n\nScene-specific direction (explicit scene choices take priority):\nOne continuous oblique rear wide shot of this same single girl gliding away on her skateboard along the gently curving asphalt road toward the upper RIGHT into the distance. The camera slowly and subtly pulls back and opens upward, revealing more open blue sea and sky while the girl gets smaller, always fully visible. Keep road and coastline anchored and horizon level; continuous coherent perspective, no sudden turn or scene change. She coasts steadily at normal natural speed, both white sneakers remain planted on the exact same rigid wooden deck throughout. No pushing, stepping, jumping or tricks. Knees gently flex, arms make only small relaxed adjustments, short chestnut bob and loose cream shirt flutter leftward. Maintain the same cream-yellow shirt, blue shorts, white shoes, gray-grip wooden skateboard, silver trucks and four small ivory wheels, rolling in solid contact with the asphalt and a consistent soft shadow to lower right. White, pink and lavender flowers sway quietly in sea breeze; distant water sparkles gently. Green mountain and hazy headland stay to left, huge sea beyond flower verge to right, sunlight upper left. Peaceful satisfied body language, quiet airy summer freedom. No added characters, vehicles, objects, writing, speech or cuts. Preserve the hand-painted gouache texture and soft 2D character lines without shape melting or background drift. A gentle calm finish as she continues into the landscape.",
+  "frames": 97,
+  "width": 1024,
+  "height": 576,
+  "fps": 24,
+  "seed": 61114,
+  "output": "public/candidates/scene-03-v1.mp4",
+  "style": "handpainted-film",
+  "styleSha256": "436456f93c45361f10efa533e001608f1c3c149c1d6fd0b6e61144b5c712b9b7",
+  "effectivePromptSha256": "939509a145fa15f5762b6806527fbaa6820db05582b88ee2f32b2486e8721183",
+  "exitCode": 0,
+  "wallSeconds": 675.03,
+  "outputSha256": "b2b520b3b2a7c6c4e201c7dd8eac00e149717c5c2cf64bd02c64e5c7064342ee"
+}

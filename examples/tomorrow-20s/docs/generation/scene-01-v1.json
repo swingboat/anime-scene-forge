@@ -1,0 +1,25 @@
+{
+  "mode": "a2v",
+  "backend": "ltx-2-mlx",
+  "sourceCommit": "747b30ef10e92a011e85b2aa0f6c4ee86ced5218",
+  "modelRevisions": {
+    "dgrauet/ltx-2.3-mlx-q4": "f306259444116d71927188af2fbbf7fdc1a8089a",
+    "mlx-community/gemma-3-12b-it-4bit": "86cc6a8dedbc456dd0e4af01a9d09f396f77e558"
+  },
+  "image": "public/art/master-two-shot.png",
+  "imageSha256": "cf20fe575efe9e4fc2da03bd6c214364e1404441651bbad58181378e15cccd0d",
+  "promptFile": "docs/prompts/scene-01.txt",
+  "promptSha256": "44e69b9d962cc2669176820e53f5d5b4ec5d2a8bef7dd8d7be8741ca96da8c9f",
+  "prompt": "Continuous Japanese 2D hand-drawn anime, exactly 4 seconds at normal speed, fixed eye-level camera, no cuts, no zoom, no camera motion. Preserve the reference character identity, hairstyle, clothes, anatomy, classroom and warm late afternoon light from the left. Use the provided Mandarin dialogue audio exactly for subtle syllable-level speech animation, natural mouth opening and closing, with closed lips before speech, during pauses and after speech. Delicate restrained facial acting, stable pupils, a natural blink, gentle breathing. Clean unlettered image, stable identity, restrained acting.\n\nMedium two-shot of two seated teenage friends at neighboring desks by a classroom window. ONLY the black shoulder-length bob-haired girl in the light blue knit cardigan on the LEFT speaks. She begins looking down at her desk with slightly tense shoulders, lets out a small tired breath, then says sadly but calmly: the supplied Mandarin line Follow the exact speech rhythm and the pause after the first phrase. Her expression is disappointed but not crying, brows slightly knit, eyes lowered. Her hands remain gently resting together on her own desk without changing finger anatomy. The dark chestnut high ponytailed girl in a white blouse on the RIGHT is a silent listener throughout, her lips stay closed; she looks compassionately at the speaker with tiny breathing and eye movements. Both stay in their exact seats. No large turns, no nodding loop, no extra voice.",
+  "frames": 97,
+  "width": 1024,
+  "height": 576,
+  "fps": 24,
+  "seed": 11211,
+  "output": "public/candidates/scene-01-v1.mp4",
+  "audio": "public/audio/drivers/scene-01-v1.wav",
+  "audioSha256": "15187d48218f5f2feaeb55f2a9384e69012cfe779cc4677f72f3f9baa315cd59",
+  "exitCode": 0,
+  "wallSeconds": 406.56,
+  "outputSha256": "51b0932511e692bb65dde337a3a3270cf27043d053a2a9be0fd29f590dc61b53"
+}

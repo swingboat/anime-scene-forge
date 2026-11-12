@@ -1,0 +1,20 @@
+{
+  "clipSha256": "aaaefb5b101a80518fb04fd64ea127222c9093f2515c986bc1eb531f2ddef78e",
+  "visualReviewed": true,
+  "normalSpeedReviewed": true,
+  "reviewer": "Codex agent",
+  "reviewedAt": "2026-11-11T11:22:39.033426",
+  "observations": "Inspected all96 full and all96 face frames. Closed lips through frame11, first opening around frame12 against voice activity frame13. She raises her eyes and chin toward screen right during the question; eyebrows relax and eyes brighten into hesitant hope. Main speech ends with closure around frames48-49, followed by attentive quiet breathing. Final half-second includes a shy downward glance while waiting, rather than a big smile. Face, bob, knit cardigan, sunset and seat remain stable; no generated writing, duplicate pupil or extra character. Full4-second Studio1x playback verified after media compatibility fix.",
+  "limitations": "Hands are outside close-up framing. Agent cannot directly hear delivery; no certified phoneme-level auditory match. The final shy glance is a natural acting interpretation of the requested reserved personality; hope is clearest in frames21-74. User acceptance pending.",
+  "artifacts": [
+    "docs/reviews/evidence/scene-03/face-all-frames.jpg",
+    "docs/reviews/evidence/scene-03/overview-every-fourth.jpg",
+    "docs/reviews/evidence/scene-03/all-frames.jpg",
+    "docs/reviews/evidence/scene-03/sheet-index.json"
+  ],
+  "userAccepted": false,
+  "originalArtifacts": [
+    "outputs/checks/scene-03/aaaefb5b10/all-frames.jpg",
+    "outputs/checks/scene-03/aaaefb5b10/face-all-frames.jpg"
+  ]
+}

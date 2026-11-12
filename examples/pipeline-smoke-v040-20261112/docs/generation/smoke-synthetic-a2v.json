@@ -1,0 +1,9 @@
+{
+  "mode": "a2v",
+  "backend": "synthetic-technical-fixture-no-inference",
+  "audioSha256": "6fe79f43b440d368cbe2cd6e8cfcf83b2b9166784dcd65f74ee891d778d7801e",
+  "output": "public/candidates/smoke-source.mp4",
+  "outputSha256": "3a29ce507f336fd7ecd26c471f017455ca9e5ce1cc48cbe8aea3effba9e7d769",
+  "style": "classic-anime",
+  "styleSha256": "72dbf5c39cfa6ac389bf0d823205f5d7c90488589debcb23dccb747144b51cec"
+}

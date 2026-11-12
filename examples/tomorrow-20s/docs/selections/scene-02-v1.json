@@ -1,0 +1,11 @@
+{
+  "source": "public/candidates/scene-02-v1.mp4",
+  "sourceSha256": "b955ff417644622a2aed5cd2df9c95aedc9c14d6405297b4443c4843f48046b4",
+  "startFrame": 0,
+  "frames": 96,
+  "fps": 24,
+  "speed": 1,
+  "crop": null,
+  "output": "public/video/scene-02-v1.mp4",
+  "outputSha256": "21efe6d1e7faec1c663e76dca41c2ea6a5e8d4c923dd2fa21645a3be47c9598b"
+}

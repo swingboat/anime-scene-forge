@@ -1,0 +1,36 @@
+{
+  "method": "Original procedural filtered-noise environmental sound design, not field recordings",
+  "seed": 61112,
+  "rate": 48000,
+  "channels": 2,
+  "duration": 12,
+  "music": false,
+  "dialogue": false,
+  "listeningReviewed": false,
+  "files": [
+    {
+      "file": "public/audio/wind.wav",
+      "sha256": "a8867cf65691ba6a6f1ebb8ff915588a2c76417a47221da6f5584f0db550d9a7",
+      "peak": 0.039506129929071106,
+      "rms": 0.008248783872360796
+    },
+    {
+      "file": "public/audio/distant-surf.wav",
+      "sha256": "30011a1798650cebea7ab12ca5cbf10f608daf8dc01ee6e2483079de8f62ffb8",
+      "peak": 0.028876078447759204,
+      "rms": 0.005207699463797435
+    },
+    {
+      "file": "public/audio/skateboard-asphalt.wav",
+      "sha256": "52ccf29606be9f5298e51aa67e4924f67db33fc7eff77e73f6a9fa83a83fc048",
+      "peak": 0.07618653597623615,
+      "rms": 0.009862270352993583
+    },
+    {
+      "file": "public/audio/coastal-mix.wav",
+      "sha256": "ec21dafa59816c97d1a2ab2deb34be4dce72b5391448caa46dfca4db0d241c46",
+      "peak": 0.08363259668274417,
+      "rms": 0.013882849752457503
+    }
+  ]
+}

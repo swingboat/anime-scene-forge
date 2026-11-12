@@ -1,0 +1,39 @@
+{
+  "clipSha256": "69deecc4056f3dd0671ec02ad5b24285aaff7526090eb6d3d2d883e42d6666cb",
+  "styleSha256": "436456f93c45361f10efa533e001608f1c3c149c1d6fd0b6e61144b5c712b9b7",
+  "visualReviewed": true,
+  "normalSpeedReviewed": true,
+  "reviewer": "Codex actual image and browser playback inspection,2026-11-12",
+  "frameRange": [
+    0,
+    95
+  ],
+  "reviewImages": [
+    "docs/reviews/scene-01/full-01.jpg through full-08.jpg",
+    "docs/reviews/scene-01/character-01.jpg through character-08.jpg (following review crop only, delivered picture not cropped)"
+  ],
+  "playback": {
+    "source": "public/video/scene-01-v1.mp4",
+    "duration": 4,
+    "rate": 1,
+    "muted": false,
+    "ended": true,
+    "error": null,
+    "startedAt": "2026-11-12T02:05:13.563Z",
+    "endedAt": "2026-11-12T02:05:17.564Z"
+  },
+  "observations": [
+    "全96帧完整场景和随人物位置移动的放大图已实际查看，女孩从画面左侧滑向中右，连续原速移动，未冻结/循环补时。",
+    "保持同一栗棕短发、米黄上衣、蓝短裤、白鞋和单一木色板；手臂有小幅变化，膝盖缓和，头发/衣角随风，未出现新增人物或核心肢体错误。",
+    "双脚持续站在同一板面上，近侧轮子保持贴路，板身和桥架可辨认；道路宽阔，前景未遮住脚板关键接触。",
+    "绿色山体在左、花海与柏油路在下、大海在道路远侧，海平线与云层稳定；下午左上光及向右影子一致，水粉层次在运动中保留。",
+    "1倍速、不静音播放至4秒结束，媒体无错误；采用候选音频为静音，最终音轨另行混音。"
+  ],
+  "limitations": [
+    "远景人物较小，不能从这一个镜头声称高精度逐笔五官稳定；侧面近镜已单独核对。",
+    "女孩在第一帧已完整位于左侧而非从画外完全进入；随后从左滑向中右完成滑入景观的叙事。",
+    "细花叶/海面仍有轻微生成笔触波动，未宣称手工逐张原画。",
+    "代理无法直接试听环境声。"
+  ],
+  "userAccepted": false
+}

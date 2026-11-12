@@ -1,0 +1,23 @@
+{
+  "startedAt": "2026-11-11T10:33:11.252969",
+  "copies": [
+    {
+      "source": "/Users/huyin/Swingboat/video-creation/videos/sakuragi-haruko-after-school-30s-20261110/.cache/models",
+      "destination": ".cache/models",
+      "method": "APFS copy-on-write clone, independent inodes, no hard/symbolic links",
+      "files": 87
+    },
+    {
+      "source": "/Users/huyin/Swingboat/video-creation/videos/sakuragi-haruko-after-school-30s-20261110/.cache/tts-models/qwen3-voicedesign-bf16",
+      "destination": ".cache/tts-models/qwen3-voicedesign-bf16",
+      "method": "APFS copy-on-write clone, independent inodes, no hard/symbolic links",
+      "files": 45
+    },
+    {
+      "source": "/Users/huyin/Swingboat/video-creation/videos/sakuragi-haruko-after-school-30s-20261110/.cache/vendor/ltx-2-mlx",
+      "destination": ".cache/vendor/ltx-2-mlx",
+      "method": "APFS copy-on-write clone, independent inodes, no hard/symbolic links",
+      "files": 464
+    }
+  ]
+}

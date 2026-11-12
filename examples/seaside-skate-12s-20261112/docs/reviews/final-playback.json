@@ -1,0 +1,32 @@
+{
+  "file": "outputs/final.mp4",
+  "sha256": "6c38cc3be9afb98c5e6f0a86118ce5421862b601be70e7aa4d13c81a8511eb2e",
+  "styleSha256": "436456f93c45361f10efa533e001608f1c3c149c1d6fd0b6e61144b5c712b9b7",
+  "visualReviewed": true,
+  "normalSpeedReviewed": true,
+  "reviewer": "Codex actual frame /1x browser inspection,2026-11-12",
+  "duration": 12,
+  "rate": 1,
+  "muted": false,
+  "ended": true,
+  "error": null,
+  "startedAt": "2026-11-12T02:19:39.877Z",
+  "endedAt": "2026-11-12T02:19:52.063Z",
+  "sameBytesAsReviewedDraft": true,
+  "editorPreviewObserved": {
+    "url": "http://127.0.0.1:3006/Episode",
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "durationSeconds": 12,
+    "timeline": "three96-frame video sequences plus coastal-mix WAV",
+    "visualResult": "Complete opening picture and editable3-shot timeline shown without pending footage label/error overlay"
+  },
+  "technicalStatus": "technical-pass",
+  "audioListeningReviewed": false,
+  "userAccepted": false,
+  "limitations": [
+    "See per-shot authored reviews and production-method.md; minor texture motion, last side-shot foreground flower occlusion, small ocean gaze.",
+    "The agent cannot directly audition sound."
+  ]
+}

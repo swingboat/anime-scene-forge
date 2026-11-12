@@ -1,0 +1,36 @@
+{
+  "backend": "Qwen3-ASR-0.6B-4bit",
+  "scope": "Text verification only. Not a listening, voice quality, emotion or lip-sync score.",
+  "lines": [
+    {
+      "shot": "scene-01",
+      "expected": "今天的演讲……又搞砸了。",
+      "transcription": "今天的演讲又搞砸了。",
+      "sha256": "b31a43cbfd73a7327bf5efee401bcbc08a61d4ff91990d395f38b99a208b723f"
+    },
+    {
+      "shot": "scene-02",
+      "expected": "紧张很正常。明天继续练。",
+      "transcription": "紧张很正常。明天继续练。",
+      "sha256": "5b48013d72f80e5b4a1b3543cedca12ad6e66796a1ef0b5e5cba347d8a9c9f55"
+    },
+    {
+      "shot": "scene-03",
+      "expected": "你还愿意陪我练？",
+      "transcription": "你还愿意陪我练？",
+      "sha256": "0f26fde6423557d33c9cfdf86f2ad2a3378d8e7a1e44653513c21d1d4f35498a"
+    },
+    {
+      "shot": "scene-04",
+      "expected": "当然。明天，我也在。",
+      "transcription": "当然，明天我也在。",
+      "sha256": "132028b7f1b1392386dfeaa095fd44ff83076cef23159004f083c1bd7b7b278b"
+    },
+    {
+      "shot": "scene-05",
+      "expected": "好。那我们明天见。",
+      "transcription": "好，那我们明天见。",
+      "sha256": "3d83a097a6a8aa122ef17e4ec60d4a61e454a46ed021124b6a2195e56a8a3f67"
+    }
+  ]
+}

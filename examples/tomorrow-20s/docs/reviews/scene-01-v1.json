@@ -1,0 +1,23 @@
+{
+  "clipSha256": "30bdf5e5c03f2bce681086f08c1f881327c05128bc0f31199209bcbf2cceb717",
+  "visualReviewed": true,
+  "normalSpeedReviewed": true,
+  "reviewer": "Codex agent",
+  "reviewedAt": "2026-11-11T11:03:37.578142",
+  "observations": "Viewed all96 full frames, all96 speaker-face frames and all96 listener-face frames. Xiaxia begins downcast, breathes and raises her chin slightly while speaking, then glances toward the listener; lowered eyelids/brows retain restrained disappointment. Main speech groups and the 1.2-second pause are visible as opening/closed lips. A-Qing remains a silent closed-mouth listener, with blinks and tiny eye/breath reactions. Both remain in the same seats, hands resting on desks; no gross anatomy change or generated text. Studio preview played at1x with actual frame progression and returned to start after the4-second nonlooping playback.",
+  "limitations": "No direct auditory judgment by agent. Minor lip preparation precedes voiced activity; no certified phoneme-level match. The sigh is represented by subtle breathing/acting, without a separately added exaggerated sigh effect. User acceptance pending.",
+  "artifacts": [
+    "docs/reviews/evidence/scene-01/hands-keyframes.jpg",
+    "docs/reviews/evidence/scene-01/face-all-frames.jpg",
+    "docs/reviews/evidence/scene-01/overview-every-fourth.jpg",
+    "docs/reviews/evidence/scene-01/all-frames.jpg",
+    "docs/reviews/evidence/scene-01/listener-all-frames.jpg",
+    "docs/reviews/evidence/scene-01/sheet-index.json"
+  ],
+  "userAccepted": false,
+  "originalArtifacts": [
+    "outputs/checks/scene-01/30bdf5e5c0/all-frames.jpg",
+    "outputs/checks/scene-01/30bdf5e5c0/face-all-frames.jpg",
+    "outputs/checks/scene-01/30bdf5e5c0/listener-all-frames.jpg"
+  ]
+}

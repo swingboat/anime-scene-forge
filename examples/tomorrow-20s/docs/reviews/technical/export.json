@@ -1,0 +1,30 @@
+{
+  "status": "technical-pass",
+  "scope": "Visual status is read from authored reviews, not assessed by these checks.",
+  "file": "outputs/final.mp4",
+  "sha256": "d0b2b8c1980d09e45be103a3a8713b0aaf935e940ef1f665b4bde77779507670",
+  "frames": 480,
+  "fps": 24,
+  "duration": 20.0,
+  "inputs": {
+    "package-lock.json": "51bcc9079372c318db86c33ee5bf9241e261a470e9ae388da159748fcf2da0f1",
+    "package.json": "9771259f4066a547a83394fa73e4b9f0020623dfc646ebb2904cefd5b5443d17",
+    "production.json": "c49cb9212de47403707a7d0a47ce370fc5ad969d45a635f75b81ad6a9b23ffc8",
+    "public/audio/bed.wav": "d15dc80a173ee06dd9e9a987b12a8802f4ceb77abf1d3e4afd27d1c452651dc1",
+    "public/audio/voices/scene-01-v1.wav": "b31a43cbfd73a7327bf5efee401bcbc08a61d4ff91990d395f38b99a208b723f",
+    "public/audio/voices/scene-02-v1.wav": "5b48013d72f80e5b4a1b3543cedca12ad6e66796a1ef0b5e5cba347d8a9c9f55",
+    "public/audio/voices/scene-03-v1.wav": "0f26fde6423557d33c9cfdf86f2ad2a3378d8e7a1e44653513c21d1d4f35498a",
+    "public/audio/voices/scene-04-v1.wav": "132028b7f1b1392386dfeaa095fd44ff83076cef23159004f083c1bd7b7b278b",
+    "public/audio/voices/scene-05-v1.wav": "3d83a097a6a8aa122ef17e4ec60d4a61e454a46ed021124b6a2195e56a8a3f67",
+    "public/fonts/NotoSansSC.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+    "public/video/scene-01-v1.mp4": "30bdf5e5c03f2bce681086f08c1f881327c05128bc0f31199209bcbf2cceb717",
+    "public/video/scene-02-v2-medium.mp4": "81a76b30dfd8011c54b4741f899c309ba792dd95fd80266ca4d5fd1f80a0522b",
+    "public/video/scene-03-v2.mp4": "aaaefb5b101a80518fb04fd64ea127222c9093f2515c986bc1eb531f2ddef78e",
+    "public/video/scene-04-v2.mp4": "1d59cafbd7dcaad2017cc55fddaad452b716b89ba90cdc686528719c28a52f72",
+    "public/video/scene-05-v1.mp4": "c73b04053c328a4ce06f079978856ae7ae03467c08fb27bfbec7e67a491305d5",
+    "remotion.config.ts": "5ad026e95030791bcc820b78fe6704100a23a54178e55ddd58b15e81d8b3faad",
+    "src/Root.tsx": "f81d638a36b709cf6ae8a711983c9f02b88c34e426a2c11cddbd87f7d62096a4",
+    "src/index.ts": "f9bc4e836a064aca9c58a681e1dc779b62a4d82894450e8e15d5cdd05840e36e",
+    "tsconfig.json": "c414c90c7e726c32fb639b9c0095f790cf125b5c1c1832913c15f12b0a897d2e"
+  }
+}

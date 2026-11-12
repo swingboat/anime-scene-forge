@@ -1,0 +1,21 @@
+{
+  "clipSha256": "1d59cafbd7dcaad2017cc55fddaad452b716b89ba90cdc686528719c28a52f72",
+  "visualReviewed": true,
+  "normalSpeedReviewed": true,
+  "reviewer": "Codex agent",
+  "reviewedAt": "2026-11-11T10:55:26.738655",
+  "observations": "Viewed all 96 full frames, all 96 cropped face frames and 24 overview frames. No generated writing in v2. Same face, high ponytail, blouse and light throughout; no extra pupils/characters. Lips are closed at rest, open in the three main speech groups, and close through the long sentence pause. Small nod/head dip and natural blinks; closed-lip smile and subtle breathing after speech. Native browser MP4 played at rate=1 from 0 to4 seconds and ended=true; Remotion preview also advances after media-component compatibility fix.",
+  "limitations": "Agent cannot directly hear audio. ASR checks words only. Review covers visible speech activity and expression, not a certified phoneme-by-phoneme listening judgment. Minor anticipatory lip preparation remains. User acceptance is pending.",
+  "artifacts": [
+    "docs/reviews/evidence/scene-04/face-all-frames.jpg",
+    "docs/reviews/evidence/scene-04/overview-every-fourth.jpg",
+    "docs/reviews/evidence/scene-04/all-frames.jpg",
+    "docs/reviews/evidence/scene-04/sheet-index.json"
+  ],
+  "userAccepted": false,
+  "originalArtifacts": [
+    "outputs/checks/scene-04/1d59cafbd7/all-frames.jpg",
+    "outputs/checks/scene-04/1d59cafbd7/face-all-frames.jpg",
+    "outputs/pilot-4s.mp4"
+  ]
+}

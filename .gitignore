@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv*/
+.env
+.env.*
+!.env.example
+node_modules/
+.cache/
+.dist/
+outputs/
+# Test-video media stay local; keep source, briefs, prompts and reviews in Git.
+examples/*/public/
+examples/.test-*/
+# Keep video clips local, including review copies outside public/ and outputs/.
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[mM][kK][vV]
+*.[wW][eE][bB][mM]
+*.[aA][vV][iI]
+*.[mM]4[vV]
+*.[mM][pP][eE][gG]
+*.[mM][pP][gG]

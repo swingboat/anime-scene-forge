@@ -1,0 +1,4 @@
+interface:
+  display_name: "漫声片场 · Anime Scene Forge"
+  short_description: "以配音驱动嘴型与表情，制作可独立导出的二维动漫叙事短片"
+  default_prompt: "使用 $anime-scene-forge 制作一段二维动漫叙事短片，先检查工具和算力，再统一角色、场景、配音与表演。"

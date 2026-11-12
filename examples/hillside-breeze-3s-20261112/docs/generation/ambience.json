@@ -1,0 +1,12 @@
+{
+  "source": "original procedural filtered noise",
+  "script": "scripts/make_ambience.py",
+  "seed": 11212,
+  "file": "public/audio/hillside-wind.wav",
+  "sha256": "bece9bb94d492a768241ecb85a825c3238e309373d004915b9234c4e525ed71f",
+  "seconds": 3,
+  "sampleRate": 48000,
+  "channels": 2,
+  "type": "wind/grass-like ambience, no dialogue or music",
+  "listeningLimitation": "Agent cannot directly audition audio; user listening remains pending."
+}

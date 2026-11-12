@@ -1,0 +1,16 @@
+{
+  "id": "scene-02",
+  "character": "aqing",
+  "text": "紧张很正常。明天继续练。",
+  "emotion": "温柔安慰同龄好友，声音清楚温暖，先接纳她的紧张，再轻轻鼓励，轻松自然的正常语速。",
+  "characterDescription": "年轻女性，普通话标准自然，同一位十七岁中国女高中生，音色明亮温暖，圆润清澈，中音域，温柔开朗而可靠，口齿清晰，与好友近距离日常交谈，正常自然语速，不模仿任何已有演员，不夸张不幼童化。",
+  "language": "Chinese",
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16",
+  "revision": "7d3824abff87e49756bb0f83fb5411de75d160c4",
+  "seed": 112128,
+  "file": "public/audio/voices/scene-02-v1-raw.wav",
+  "sha256": "3a23c231351ddde9cece345ee1669dd17cf10a2c8700ed673a0a1c3b2730994e",
+  "sampleRate": 24000,
+  "seconds": 2.48,
+  "wallSeconds": 2.78
+}

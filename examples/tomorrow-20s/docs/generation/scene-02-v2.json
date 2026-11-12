@@ -1,0 +1,41 @@
+{
+  "mode": "a2v",
+  "backend": "ltx-2-mlx",
+  "sourceCommit": "747b30ef10e92a011e85b2aa0f6c4ee86ced5218",
+  "modelRevisions": {
+    "dgrauet/ltx-2.3-mlx-q4": "f306259444116d71927188af2fbbf7fdc1a8089a",
+    "mlx-community/gemma-3-12b-it-4bit": "86cc6a8dedbc456dd0e4af01a9d09f396f77e558"
+  },
+  "image": "public/art/aqing-medium.png",
+  "imageSha256": "81072290ee9695b2ee7f3128bbd8973f79ca3203359f61c41985d165d0eafd24",
+  "promptFile": "docs/prompts/scene-02.txt",
+  "promptSha256": "0d2b718c365e1b3594f830cab2d19b3488b9e1d7afa2d2843e9d1d4d0d5189b3",
+  "prompt": "Continuous Japanese 2D hand-drawn anime, exactly 4 seconds at normal speed, fixed eye-level camera, no cuts, no zoom, no camera motion. Preserve the reference character identity, hairstyle, clothes, anatomy, classroom and warm late afternoon light from the left. Use the provided Mandarin dialogue audio exactly for subtle syllable-level speech animation, natural mouth opening and closing, with closed lips before speech, during pauses and after speech. Delicate restrained facial acting, stable pupils, a natural blink, gentle breathing. Clean unlettered image, stable identity, restrained acting.\n\nSingle teenage girl with dark chestnut high ponytail and white blouse, seated at the same desk. She looks to SCREEN LEFT toward her offscreen friend, inclines her upper body slightly forward with warm attentive eyes, and gently says: the supplied Mandarin line Natural closed-mouth pause between the two sentences. She is kind and matter-of-fact, speaking softly at a natural pace, not lecturing. After the line she closes her lips into a modest encouraging smile and quietly listens. Small motion only, preserve her face and high ponytail. Nobody else visible.",
+  "frames": 97,
+  "width": 1024,
+  "height": 576,
+  "fps": 24,
+  "seed": 11212,
+  "output": "public/candidates/scene-02-v2.mp4",
+  "audio": "public/audio/drivers/scene-02-v1.wav",
+  "audioSha256": "2c7a47d892d1e22327679957609a98686b1a83b57837edaab39a483f7188ad98",
+  "anchors": [
+    {
+      "image": "public/art/aqing-medium.png",
+      "frame": 8,
+      "strength": 1.0,
+      "binding": "guide",
+      "imageSha256": "81072290ee9695b2ee7f3128bbd8973f79ca3203359f61c41985d165d0eafd24"
+    },
+    {
+      "image": "public/art/aqing-medium.png",
+      "frame": 47,
+      "strength": 1.0,
+      "binding": "guide",
+      "imageSha256": "81072290ee9695b2ee7f3128bbd8973f79ca3203359f61c41985d165d0eafd24"
+    }
+  ],
+  "exitCode": 0,
+  "wallSeconds": 499.1,
+  "outputSha256": "1a050037d337fce74b595e4766ac163747bc7aa584d0274535313ff144d53afc"
+}

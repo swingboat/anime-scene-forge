@@ -1,0 +1,26 @@
+{
+  "mode": "i2v",
+  "backend": "ltx-2-mlx",
+  "sourceCommit": "747b30ef10e92a011e85b2aa0f6c4ee86ced5218",
+  "modelRevisions": {
+    "dgrauet/ltx-2.3-mlx-q4": "f306259444116d71927188af2fbbf7fdc1a8089a",
+    "mlx-community/gemma-3-12b-it-4bit": "86cc6a8dedbc456dd0e4af01a9d09f396f77e558"
+  },
+  "image": "public/art/scene-01.png",
+  "imageSha256": "b669c168739a5e8b2cc301d5268fddef0f01190222adcdb852e5d26f4ecd9a27",
+  "promptFile": "docs/prompts/scene-01-video.txt",
+  "promptSha256": "413c25e0eeb7dbfb134312fa29e5c351661248a4444b3344724cd349aceb189f",
+  "prompt": "Preserve the hand-drawn character design and the hand-painted gouache background texture in continuous natural-speed animation. Use subtle believable breathing, gaze and weight shifts, with a small motivated character action. Where the scene contains wind, let hair, cloth and vegetation respond coherently with slightly different timing. Maintain painted surfaces, spatial depth and stable facial identity without texture boiling. Honor the specified camera; give the chosen action room to settle instead of adding unrequested cuts or events.\n\nScene-specific direction (explicit scene choices take priority):\nA single continuous wide establishing shot, camera stays almost still and preserves this entire coastal landscape. Exactly one small girl enters from the left and smoothly coasts rightward on the gray asphalt road, travelling from the left part toward center frame over four seconds at an ordinary relaxed skateboard speed. She remains fully visible. BOTH white sneakers stay planted on the wooden gray-grip deck, knees softly flexed and arms making tiny balance adjustments. The board stays one stable rigid skateboard, wheels roll along and touch the road with a moving contact shadow. No kicking, stepping, jumps or tricks. Her chestnut short bob and pale yellow shirt flutter gently toward left. White, pink and lavender flowers sway subtly in the same sea breeze, sea sparkles quietly and clouds drift barely. Preserve layered mountain at left, winding road across lower frame, open blue sea behind road, straight horizon, airy blue sky, warm sunlight from upper left. Keep exact girl's outfit and single skateboard design and harmonious painted texture. No other people or traffic, no speech, no writing. No cuts or abrupt camera motion. Quiet carefree summer afternoon, natural continuous hand-drawn movement.",
+  "frames": 97,
+  "width": 1024,
+  "height": 576,
+  "fps": 24,
+  "seed": 61113,
+  "output": "public/candidates/scene-01-v1.mp4",
+  "style": "handpainted-film",
+  "styleSha256": "436456f93c45361f10efa533e001608f1c3c149c1d6fd0b6e61144b5c712b9b7",
+  "effectivePromptSha256": "97dec89744e6a5331b6871afd5b16c1956372a28381fa9f422f3cb8241457d09",
+  "exitCode": 0,
+  "wallSeconds": 418.93,
+  "outputSha256": "7f2f0e1ce08ad4af5c3d92d54e3b6522c2c9f149de62dfaf2856b156892c9378"
+}

@@ -1,0 +1,24 @@
+{
+  "clipSha256": "81a76b30dfd8011c54b4741f899c309ba792dd95fd80266ca4d5fd1f80a0522b",
+  "visualReviewed": true,
+  "normalSpeedReviewed": true,
+  "reviewer": "Codex agent",
+  "reviewedAt": "2026-11-11T11:30:46.161270",
+  "observations": "Viewed96 uncropped full frames and96 face frames, native hand keyframes0/24/48/95, then all96 cropped full and face frames. v2 stays closed through frame9 and opens at frame10 close to the actual first voice activity frame10; second phrase opens around47 against activity49. Clear closed-mouth pause around31-46 and closed smile after66. Subtle forward inclination, stable eyes, natural blink, reassuring reserved expression. Face, hair, blouse, left-side light and seat match original; no writing or gross anatomy errors. Intentional medium-close crop[192,0,832,468] after checking complete body/hands, retaining headroom and shoulder lines, distinct from tighter scene04.4-second Studio1x playback completed.",
+  "limitations": "No direct audio listening by agent; no certified phoneme-level judgment. A small anticipatory lip preparation of approximately2frames remains before the second phrase. User acceptance pending.",
+  "artifacts": [
+    "docs/reviews/evidence/scene-02/uncropped-overview.jpg",
+    "docs/reviews/evidence/scene-02/hands-before-crop.jpg",
+    "docs/reviews/evidence/scene-02/face-all-frames.jpg",
+    "docs/reviews/evidence/scene-02/overview-every-fourth.jpg",
+    "docs/reviews/evidence/scene-02/all-frames.jpg",
+    "docs/reviews/evidence/scene-02/sheet-index.json"
+  ],
+  "userAccepted": false,
+  "originalArtifacts": [
+    "outputs/checks/scene-02/81a76b30df/all-frames.jpg",
+    "outputs/checks/scene-02/81a76b30df/face-all-frames.jpg",
+    "outputs/checks/scene-02/81a76b30df/hands-before-crop.jpg",
+    "outputs/checks/scene-02/81a76b30df/uncropped-overview.jpg"
+  ]
+}

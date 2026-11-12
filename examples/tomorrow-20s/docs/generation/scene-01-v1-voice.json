@@ -1,0 +1,16 @@
+{
+  "id": "scene-01",
+  "character": "xiaxia",
+  "text": "今天的演讲……又搞砸了。",
+  "emotion": "放学后对熟悉的朋友低声倾诉，认真内向的女高中生，情绪低落但自然克制，今天的演讲后短暂停顿，非哭腔，正常语速。",
+  "characterDescription": "年轻女性，普通话标准自然，同一位十七岁中国女高中生，轻柔干净的少女声线，中高音域，内向认真且有一点害羞，口齿清晰，温柔细腻但有声带实音，亲密的日常对话，正常自然语速，不模仿任何已有演员，不夸张不幼童化。",
+  "language": "Chinese",
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16",
+  "revision": "7d3824abff87e49756bb0f83fb5411de75d160c4",
+  "seed": 112114,
+  "file": "public/audio/voices/scene-01-v1-raw.wav",
+  "sha256": "2582543f5ebea267ea05b4c2863b198a414f357bd1cdac5cf992cd8778bb5720",
+  "sampleRate": 24000,
+  "seconds": 3.44,
+  "wallSeconds": 7.26
+}

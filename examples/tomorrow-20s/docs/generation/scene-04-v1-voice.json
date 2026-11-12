@@ -1,0 +1,16 @@
+{
+  "id": "scene-04",
+  "character": "aqing",
+  "text": "当然。明天，我也在。",
+  "emotion": "真诚而坚定的承诺，语气轻柔温暖，当然之后有短暂停顿，明天我也在柔和清晰，正常语速，不演讲不夸张。",
+  "characterDescription": "年轻女性，普通话标准自然，同一位十七岁中国女高中生，音色明亮温暖，圆润清澈，中音域，温柔开朗而可靠，口齿清晰，与好友近距离日常交谈，正常自然语速，不模仿任何已有演员，不夸张不幼童化。",
+  "language": "Chinese",
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16",
+  "revision": "7d3824abff87e49756bb0f83fb5411de75d160c4",
+  "seed": 112128,
+  "file": "public/audio/voices/scene-04-v1-raw.wav",
+  "sha256": "8c2219b8a3025875faaae04b3305050492e0cae797425098da2647d7606309b9",
+  "sampleRate": 24000,
+  "seconds": 2.4,
+  "wallSeconds": 2.36
+}

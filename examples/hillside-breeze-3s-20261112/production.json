@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "title": "风起山坡",
+  "style": "handpainted-film",
+  "format": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "durationFrames": 72
+  },
+  "fontFile": null,
+  "background": {
+    "file": "audio/hillside-wind.wav",
+    "volume": 0.8
+  },
+  "sfx": [],
+  "shots": [
+    {
+      "id": "scene-01",
+      "frames": 72,
+      "action": "少女微微抬头感受风，轻眨眼后闭口微笑；头发、衣角与草木顺风轻动",
+      "art": "art/scene-01.png",
+      "clip": "video/scene-01-v1.mp4",
+      "status": "approved",
+      "review": "docs/reviews/scene-01-v1.json",
+      "selection": "docs/selections/scene-01-v1.json",
+      "generation": "docs/generation/scene-01-v1.json",
+      "caption": null,
+      "dialogue": null
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "python": "Python 3.13.9",
+  "node": "v24.13.1",
+  "npm": "11.8.0",
+  "machine": "arm64",
+  "vendorCommit": "747b30ef10e92a011e85b2aa0f6c4ee86ced5218"
+}

@@ -1,0 +1,29 @@
+{
+  "status": "technical-pass",
+  "scope": "Visual status is read from authored reviews, not assessed by these checks.",
+  "file": "outputs/final.mp4",
+  "sha256": "6c38cc3be9afb98c5e6f0a86118ce5421862b601be70e7aa4d13c81a8511eb2e",
+  "frames": 288,
+  "fps": 24,
+  "duration": 12.0,
+  "containerDuration": 12.0,
+  "inputs": {
+    "docs/style.json": "436456f93c45361f10efa533e001608f1c3c149c1d6fd0b6e61144b5c712b9b7",
+    "package-lock.json": "423109629c9d088c64f9571e9a39ae87d0206a881948a50935db9c9ae8d4127d",
+    "package.json": "9b0cc75a7782cb93460290772e4e52295b41eb3e17568896ada6793afd29ffce",
+    "production.json": "c5141febca6de9ea7ac284e8176f56f95cb156c10322f2fabb9ed2d936f281c0",
+    "public/audio/coastal-mix.wav": "ec21dafa59816c97d1a2ab2deb34be4dce72b5391448caa46dfca4db0d241c46",
+    "public/video/scene-01-v1.mp4": "69deecc4056f3dd0671ec02ad5b24285aaff7526090eb6d3d2d883e42d6666cb",
+    "public/video/scene-02-v1.mp4": "656069a1d978bca763ee88c8e6c9e36829137c974b5fcd9c5ac8581fbe281e35",
+    "public/video/scene-03-v1.mp4": "635bd8da4c55d0c903f401e88eeda80abfb23d8442c58bad70c666219ac05953",
+    "remotion.config.ts": "5ad026e95030791bcc820b78fe6704100a23a54178e55ddd58b15e81d8b3faad",
+    "scripts/project_env.py": "9fa4016b6cce04fe427ec7dbc177c08d6a618453ab063303dedbe8d8808f1528",
+    "scripts/project_ops.py": "d22f31f20efa954c97f97dea350ac30ce5a3d3f6ffb67b3d2addb00bba5df413",
+    "scripts/run.mjs": "ed1d3b4e2b180288ceefeb1ec82ddea897316f2d458d27587c8dc4ae97f8bc8c",
+    "scripts/style_profile.py": "cad439959321837c409d3a761a62589302a0ef1dff81b2803ee3e6daf7ce0f56",
+    "scripts/trim_export.py": "e8b3c382a145853b304e7dceef4d6eb04e6a8198eda4476f0e193e191d2f2c8e",
+    "src/Root.tsx": "f81d638a36b709cf6ae8a711983c9f02b88c34e426a2c11cddbd87f7d62096a4",
+    "src/index.ts": "f9bc4e836a064aca9c58a681e1dc779b62a4d82894450e8e15d5cdd05840e36e",
+    "tsconfig.json": "c414c90c7e726c32fb639b9c0095f790cf125b5c1c1832913c15f12b0a897d2e"
+  }
+}

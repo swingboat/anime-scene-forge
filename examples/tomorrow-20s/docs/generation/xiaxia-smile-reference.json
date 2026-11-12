@@ -1,0 +1,10 @@
+{
+  "backend": "Codex built-in imagegen",
+  "modelVersion": "Not exposed by host tool",
+  "promptFile": "docs/prompts/xiaxia-smile-image.txt",
+  "reference": "public/art/xiaxia-hopeful-frame68.png",
+  "referenceSha256": "5a246d153fbc051d8eb8b50dbb8351e79f2bff99e5449221cb29bfce338bee5c",
+  "output": "public/art/xiaxia-smile-guide.png",
+  "outputSha256": "c993421c655737c5b7ad482318fe2b566ec2a0282523c6ae4ace7f7e01326b84",
+  "purpose": "Expression-only ending guide for scene05; final clip remains newly generated continuous A2V."
+}

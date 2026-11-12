@@ -1,0 +1,25 @@
+{
+  "mode": "a2v",
+  "backend": "ltx-2-mlx",
+  "sourceCommit": "747b30ef10e92a011e85b2aa0f6c4ee86ced5218",
+  "modelRevisions": {
+    "dgrauet/ltx-2.3-mlx-q4": "f306259444116d71927188af2fbbf7fdc1a8089a",
+    "mlx-community/gemma-3-12b-it-4bit": "86cc6a8dedbc456dd0e4af01a9d09f396f77e558"
+  },
+  "image": "public/art/aqing-close.png",
+  "imageSha256": "38068bb2dfae809bd73fbf80d3bbfce1e2ecf7caba03a8b5160a460fe7c8810e",
+  "promptFile": "docs/prompts/scene-04.txt",
+  "promptSha256": "da9bc65f52219ab23963065a0ece5080cb23d68ff874333b91b562a59fbc1c57",
+  "prompt": "A continuous 4-second Japanese 2D hand-drawn anime close-up. Keep the exact single teenage girl's identity, dark brown high ponytail, amber eyes, white collared blouse, warm sunset lighting, seated position and classroom of the reference image. Fixed eye-level camera, native normal speed, no cut, no camera movement. She looks gently toward screen left at her offscreen friend. During the initial brief silence her lips are softly closed. Using the supplied Mandarin audio she says exactly: “当然。明天，我也在。” Her small natural mouth movements follow the actual speech, opening and closing for each syllable, lips closing during the pause after 当然. She gives one subtle reassuring nod and a quiet, firm, affectionate smile. Eyes remain stable and focused, with a natural blink. After the final spoken syllable she closes her mouth into a gentle closed-lip smile and holds it naturally with subtle breathing until the end. Restrained genuine emotion, delicate facial animation, small head motion only. Keep clean consistent anime lines, original facial proportions and hairstyle. No extra people, no duplicated pupils, no extra hair, no exaggerated grin, no continuous open mouth in silence, no subtitles or text. Audio-driven speech, continuous living character performance.",
+  "frames": 97,
+  "width": 1024,
+  "height": 576,
+  "fps": 24,
+  "seed": 11210,
+  "output": "public/candidates/scene-04-v1.mp4",
+  "audio": "public/audio/drivers/scene-04-v1.wav",
+  "audioSha256": "4959de19f035b3c49f6240534b4485b60bac555742a8bcc70c2efadbbf96aade",
+  "exitCode": 0,
+  "wallSeconds": 421.83,
+  "outputSha256": "94ba29adaff9218c872850ee378d4d864d97052133d2ded2d03db3eef1eb0dbd"
+}

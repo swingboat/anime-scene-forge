@@ -1,0 +1,29 @@
+Mode: Distilled Two-Stage (half-res + upscale + distilled refine)
+  Model: /Users/huyin/Swingboat/SKILLs/anime-scene-forge/examples/seaside-skate-12s-20261112/.cache/models/ltx-q4
+[Loading text encoder (Gemma)] ...
+[Loading text encoder (Gemma)] done in 0.0s
+[Encoding prompt] ...
+Encoding prompt with Gemma only
+Projecting materialized hidden states with connector only
+Prompt ready; both text-model weight sets released
+[Encoding prompt] done in 92.5s
+[Loading transformer (transformer-distilled-1.1.safetensors)] ...
+[Loading transformer (transformer-distilled-1.1.safetensors)] done in 1.2s
+[estimate] denoising: 8 steps x 1 passes over 1872 video + 101 audio tokens = 8 forwards (cost follows total clip length, not the regenerated window)
+Denoising:   0%|          | 0/8 [00:00<?, ?it/s]                                                [estimate] denoising: ~2 min 15 s remaining (19.2 s/forward) (first step includes warm-up)
+Denoising:   0%|          | 0/8 [00:19<?, ?it/s]Denoising:  12%|█▎        | 1/8 [00:19<02:14, 19.21s/it]                                                        [estimate] denoising: ~1 min 42 s remaining (16.9 s/forward) (refined)
+Denoising:  12%|█▎        | 1/8 [00:36<02:14, 19.21s/it]Denoising:  25%|██▌       | 2/8 [00:36<01:47, 17.87s/it]Denoising:  38%|███▊      | 3/8 [00:52<01:26, 17.26s/it]Denoising:  50%|█████     | 4/8 [01:12<01:12, 18.14s/it]Denoising:  62%|██████▎   | 5/8 [01:31<00:55, 18.62s/it]Denoising:  75%|███████▌  | 6/8 [01:51<00:37, 18.99s/it]Denoising:  88%|████████▊ | 7/8 [02:11<00:19, 19.21s/it]Denoising: 100%|██████████| 8/8 [02:31<00:00, 19.62s/it]Denoising: 100%|██████████| 8/8 [02:31<00:00, 18.94s/it]
+[estimate] denoising: 3 steps x 1 passes over 7488 video + 101 audio tokens = 3 forwards (cost follows total clip length, not the regenerated window)
+Denoising:   0%|          | 0/3 [00:00<?, ?it/s]                                                [estimate] denoising: ~3 min 3 s remaining (91.7 s/forward) (first step includes warm-up)
+Denoising:   0%|          | 0/3 [01:31<?, ?it/s]Denoising:  33%|███▎      | 1/3 [01:31<03:03, 91.74s/it]                                                        [estimate] denoising: ~1 min 36 s remaining (96.1 s/forward) (refined)
+Denoising:  33%|███▎      | 1/3 [03:07<03:03, 91.74s/it]Denoising:  67%|██████▋   | 2/3 [03:07<01:34, 94.32s/it]Denoising: 100%|██████████| 3/3 [04:41<00:00, 93.85s/it]Denoising: 100%|██████████| 3/3 [04:41<00:00, 93.72s/it]
+[Loading decoders (VAE + audio + vocoder)] ...
+[Loading decoders (VAE + audio + vocoder)] done in 0.1s
+[Decoding video + audio + muxing] ...
+[vae-decode tiling] frames=40/8 px=512/32 est. 5.2 GB budget=9.0 GB
+[vae-decode tiling] peak Metal memory 10.90 GB
+[Decoding video + audio + muxing] done in 37.2s
+
+Saved to: /Users/huyin/Swingboat/SKILLs/anime-scene-forge/examples/seaside-skate-12s-20261112/public/candidates/scene-02-v1.mp4
+Time: 570.6s
+{"elapsed_seconds": 575.44, "mlx_peak_gib": 10.903}

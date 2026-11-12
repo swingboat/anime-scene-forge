@@ -1,0 +1,50 @@
+[
+  {
+    "file": "public/art/aqing-close.png",
+    "sha256": "38068bb2dfae809bd73fbf80d3bbfce1e2ecf7caba03a8b5160a460fe7c8810e",
+    "actualSize": [
+      1672,
+      941
+    ]
+  },
+  {
+    "file": "public/art/aqing-medium.png",
+    "sha256": "81072290ee9695b2ee7f3128bbd8973f79ca3203359f61c41985d165d0eafd24",
+    "actualSize": [
+      1672,
+      941
+    ]
+  },
+  {
+    "file": "public/art/master-two-shot.png",
+    "sha256": "cf20fe575efe9e4fc2da03bd6c214364e1404441651bbad58181378e15cccd0d",
+    "actualSize": [
+      1672,
+      941
+    ]
+  },
+  {
+    "file": "public/art/xiaxia-close.png",
+    "sha256": "75358aa2260d1b36d6075be838e5eda175cb1c1d2cdff89e0f2c76b33af1d2f3",
+    "actualSize": [
+      1672,
+      941
+    ]
+  },
+  {
+    "file": "public/art/xiaxia-hopeful-frame68.png",
+    "sha256": "5a246d153fbc051d8eb8b50dbb8351e79f2bff99e5449221cb29bfce338bee5c",
+    "actualSize": [
+      1280,
+      720
+    ]
+  },
+  {
+    "file": "public/art/xiaxia-smile-guide.png",
+    "sha256": "c993421c655737c5b7ad482318fe2b566ec2a0282523c6ae4ace7f7e01326b84",
+    "actualSize": [
+      1672,
+      941
+    ]
+  }
+]

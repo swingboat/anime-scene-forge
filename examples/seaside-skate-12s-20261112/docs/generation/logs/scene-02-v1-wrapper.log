@@ -1,0 +1,26 @@
+{
+  "mode": "i2v",
+  "backend": "ltx-2-mlx",
+  "sourceCommit": "747b30ef10e92a011e85b2aa0f6c4ee86ced5218",
+  "modelRevisions": {
+    "dgrauet/ltx-2.3-mlx-q4": "f306259444116d71927188af2fbbf7fdc1a8089a",
+    "mlx-community/gemma-3-12b-it-4bit": "86cc6a8dedbc456dd0e4af01a9d09f396f77e558"
+  },
+  "image": "public/art/scene-02.png",
+  "imageSha256": "5d794ac31944c3b3a4a0504a31e6137463f612c53dcce2058491b97a26b06d23",
+  "promptFile": "docs/prompts/scene-02-video.txt",
+  "promptSha256": "15f96de18757d3a19851929a5b835c86fefa3f62feba4077691a5cfb5f99f553",
+  "prompt": "Preserve the hand-drawn character design and the hand-painted gouache background texture in continuous natural-speed animation. Use subtle believable breathing, gaze and weight shifts, with a small motivated character action. Where the scene contains wind, let hair, cloth and vegetation respond coherently with slightly different timing. Maintain painted surfaces, spatial depth and stable facial identity without texture boiling. Honor the specified camera; give the chosen action room to settle instead of adding unrequested cuts or events.\n\nScene-specific direction (explicit scene choices take priority):\nOne continuous full-body side tracking shot of exactly this single girl calmly coasting on her skateboard to screen right at ordinary relaxed cruising speed. The camera travels right at the same speed so her whole body and the entire skateboard remain in frame with generous margin. The flower verge and coastline drift coherently LEFT relative to the girl, with foreground moving faster than distant sea. The asphalt passes under rolling wheels; visible two near wheels keep constant diameter and roll smoothly, both trucks remain attached to one rigid deck. BOTH shoes remain firmly planted flat on the same points of the deck throughout, no stepping, no pushing, no jumping. Her knees gently absorb the road, her arms make small smooth balancing adjustments, torso stays centered above deck, no exaggerated waving. She keeps a small satisfied closed-mouth smile, makes a tiny relaxed glance toward the sea then looks along the road, no large head turn. Short chestnut hair and cream-yellow shirt hem flutter gently toward screen left. The white, pink and lavender flowers nod gently in the same breeze. Tiny sea sparkles shimmer. Keep her exact face, hair silhouette, cream-yellow shirt, blue shorts, white sneakers, wooden gray-grip skateboard and ivory wheels. Preserve the coastal hill at left, open sea beyond road, stable horizontal horizon and afternoon sunlight upper left. No cuts, no zoom, no new objects, no speech, no text. Natural continuous motion, restful summer freedom. Stable painted background, coherent perspective and contact shadow moving with skateboard, no morphing or disintegrating board.",
+  "frames": 97,
+  "width": 1024,
+  "height": 576,
+  "fps": 24,
+  "seed": 61112,
+  "output": "public/candidates/scene-02-v1.mp4",
+  "style": "handpainted-film",
+  "styleSha256": "436456f93c45361f10efa533e001608f1c3c149c1d6fd0b6e61144b5c712b9b7",
+  "effectivePromptSha256": "c7cea5ed2b154614ac50e7ac4b39fa48ca7b4ae9755313753b57e262df7d2c8a",
+  "exitCode": 0,
+  "wallSeconds": 576.32,
+  "outputSha256": "f7b3aa93ac196fc087560edba9c8131002a44f8f4a2126467481a7366bda4fd7"
+}

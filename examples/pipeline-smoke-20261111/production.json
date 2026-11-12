@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "title": "Technical pipeline fixture",
+  "format": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "durationFrames": 12
+  },
+  "fontFile": null,
+  "background": null,
+  "sfx": [],
+  "shots": [
+    {
+      "id": "scene-01",
+      "frames": 12,
+      "action": "",
+      "art": "art/smoke.png",
+      "clip": "video/scene-01-v1.mp4",
+      "status": "approved",
+      "review": "docs/reviews/smoke-fixture.json",
+      "selection": "docs/selections/scene-01-v1.json",
+      "generation": "docs/generation/smoke-synthetic-a2v.json",
+      "caption": {
+        "text": "Technical fixture",
+        "startFrame": 0,
+        "endFrame": 12
+      },
+      "dialogue": {
+        "text": "Synthetic test pulse, not speech",
+        "file": "audio/voices/smoke.wav",
+        "sync": "on-screen",
+        "fromFrame": 3,
+        "driverStartFrame": 2,
+        "driverFile": "audio/drivers/scene-01-a2v.wav",
+        "driverSha256": "6fe79f43b440d368cbe2cd6e8cfcf83b2b9166784dcd65f74ee891d778d7801e",
+        "voiceSha256": "c707eb834231346fb362c25f824f86e04f33752fc69f523784eb3db88332a939"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "status": "pass",
+  "checks": [
+    {
+      "shot": "scene-01",
+      "imageHashMatches": true,
+      "driverHashMatches": true,
+      "guides": []
+    },
+    {
+      "shot": "scene-02",
+      "imageHashMatches": true,
+      "driverHashMatches": true,
+      "guides": [
+        {
+          "image": "public/art/aqing-medium.png",
+          "frame": 8,
+          "strength": 1.0,
+          "binding": "guide",
+          "imageSha256": "81072290ee9695b2ee7f3128bbd8973f79ca3203359f61c41985d165d0eafd24"
+        },
+        {
+          "image": "public/art/aqing-medium.png",
+          "frame": 47,
+          "strength": 1.0,
+          "binding": "guide",
+          "imageSha256": "81072290ee9695b2ee7f3128bbd8973f79ca3203359f61c41985d165d0eafd24"
+        }
+      ]
+    },
+    {
+      "shot": "scene-03",
+      "imageHashMatches": true,
+      "driverHashMatches": true,
+      "guides": [
+        {
+          "image": "public/art/xiaxia-close.png",
+          "frame": 11,
+          "strength": 1.0,
+          "binding": "guide",
+          "imageSha256": "75358aa2260d1b36d6075be838e5eda175cb1c1d2cdff89e0f2c76b33af1d2f3"
+        }
+      ]
+    },
+    {
+      "shot": "scene-04",
+      "imageHashMatches": true,
+      "driverHashMatches": true,
+      "guides": [
+        {
+          "image": "public/art/aqing-close.png",
+          "frame": 6,
+          "strength": 1.0,
+          "binding": "guide",
+          "imageSha256": "38068bb2dfae809bd73fbf80d3bbfce1e2ecf7caba03a8b5160a460fe7c8810e"
+        },
+        {
+          "image": "public/art/aqing-close.png",
+          "frame": 72,
+          "strength": 1.0,
+          "binding": "guide",
+          "imageSha256": "38068bb2dfae809bd73fbf80d3bbfce1e2ecf7caba03a8b5160a460fe7c8810e"
+        }
+      ]
+    },
+    {
+      "shot": "scene-05",
+      "imageHashMatches": true,
+      "driverHashMatches": true,
+      "guides": [
+        {
+          "image": "public/art/xiaxia-hopeful-frame68.png",
+          "frame": 9,
+          "strength": 1.0,
+          "binding": "guide",
+          "imageSha256": "5a246d153fbc051d8eb8b50dbb8351e79f2bff99e5449221cb29bfce338bee5c"
+        },
+        {
+          "image": "public/art/xiaxia-hopeful-frame68.png",
+          "frame": 42,
+          "strength": 1.0,
+          "binding": "guide",
+          "imageSha256": "5a246d153fbc051d8eb8b50dbb8351e79f2bff99e5449221cb29bfce338bee5c"
+        },
+        {
+          "image": "public/art/xiaxia-smile-guide.png",
+          "frame": 80,
+          "strength": 0.85,
+          "binding": "guide",
+          "imageSha256": "c993421c655737c5b7ad482318fe2b566ec2a0282523c6ae4ace7f7e01326b84"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "copies": [
+    {
+      "source": "/Users/huyin/Swingboat/SKILLs/anime-scene-forge/examples/hillside-breeze-3s-20261112/.cache/models",
+      "copy": ".cache/models",
+      "files": 87,
+      "bytes": 28547361033,
+      "independentInodes": true,
+      "method": "APFS clonefile via cp -cR",
+      "wallSeconds": 0.07
+    }
+  ],
+  "downloadedModels": false,
+  "note": "Only one-time preparation reads source; generation uses project-local model paths."
+}

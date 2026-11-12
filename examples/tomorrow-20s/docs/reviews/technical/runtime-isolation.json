@@ -1,0 +1,30 @@
+{
+  ".venv": {
+    "python": "3.13.9 (main, Oct 14 2025, 21:10:40) [Clang 20.1.4 ]",
+    "executable": "/Users/huyin/Swingboat/SKILLs/anime-scene-forge/examples/tomorrow-20s/.venv/bin/python",
+    "sitePackages": "/Users/huyin/Swingboat/SKILLs/anime-scene-forge/examples/tomorrow-20s/.venv/lib/python3.13/site-packages",
+    "versions": {
+      "mlx": "0.32.4",
+      "mlx-lm": "0.32.2",
+      "ltx-core-mlx": "0.18.0",
+      "ltx-pipelines-mlx": "0.18.0",
+      "numpy": "2.5.4",
+      "pillow": "13.0.0"
+    }
+  },
+  ".venv-tts": {
+    "python": "3.13.9 (main, Oct 14 2025, 21:10:40) [Clang 20.1.4 ]",
+    "executable": "/Users/huyin/Swingboat/SKILLs/anime-scene-forge/examples/tomorrow-20s/.venv-tts/bin/python",
+    "sitePackages": "/Users/huyin/Swingboat/SKILLs/anime-scene-forge/examples/tomorrow-20s/.venv-tts/lib/python3.13/site-packages",
+    "versions": {
+      "mlx": "0.32.4",
+      "mlx-audio": "0.6.5",
+      "numpy": "2.5.4",
+      "scipy": "1.18.1"
+    }
+  },
+  "publicFiles": {
+    "files": 27,
+    "links": []
+  }
+}

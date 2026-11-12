@@ -1,0 +1,20 @@
+[
+  {
+    "image": "public/art/xiaxia-hopeful-frame68.png",
+    "frame": 9,
+    "strength": 1.0,
+    "binding": "guide"
+  },
+  {
+    "image": "public/art/xiaxia-hopeful-frame68.png",
+    "frame": 42,
+    "strength": 1.0,
+    "binding": "guide"
+  },
+  {
+    "image": "public/art/xiaxia-smile-guide.png",
+    "frame": 80,
+    "strength": 0.85,
+    "binding": "guide"
+  }
+]

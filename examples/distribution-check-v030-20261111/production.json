@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "title": "Distribution bootstrap technical check",
+  "format": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "durationFrames": 480
+  },
+  "fontFile": null,
+  "background": null,
+  "sfx": [],
+  "shots": [
+    {
+      "id": "scene-01",
+      "frames": 96,
+      "action": "",
+      "art": null,
+      "clip": null,
+      "status": "pending",
+      "review": null,
+      "selection": null,
+      "generation": null,
+      "caption": null,
+      "dialogue": null
+    },
+    {
+      "id": "scene-02",
+      "frames": 96,
+      "action": "",
+      "art": null,
+      "clip": null,
+      "status": "pending",
+      "review": null,
+      "selection": null,
+      "generation": null,
+      "caption": null,
+      "dialogue": null
+    },
+    {
+      "id": "scene-03",
+      "frames": 96,
+      "action": "",
+      "art": null,
+      "clip": null,
+      "status": "pending",
+      "review": null,
+      "selection": null,
+      "generation": null,
+      "caption": null,
+      "dialogue": null
+    },
+    {
+      "id": "scene-04",
+      "frames": 96,
+      "action": "",
+      "art": null,
+      "clip": null,
+      "status": "pending",
+      "review": null,
+      "selection": null,
+      "generation": null,
+      "caption": null,
+      "dialogue": null
+    },
+    {
+      "id": "scene-05",
+      "frames": 96,
+      "action": "",
+      "art": null,
+      "clip": null,
+      "status": "pending",
+      "review": null,
+      "selection": null,
+      "generation": null,
+      "caption": null,
+      "dialogue": null
+    }
+  ]
+}

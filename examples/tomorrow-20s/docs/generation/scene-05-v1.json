@@ -1,0 +1,48 @@
+{
+  "mode": "a2v",
+  "backend": "ltx-2-mlx",
+  "sourceCommit": "747b30ef10e92a011e85b2aa0f6c4ee86ced5218",
+  "modelRevisions": {
+    "dgrauet/ltx-2.3-mlx-q4": "f306259444116d71927188af2fbbf7fdc1a8089a",
+    "mlx-community/gemma-3-12b-it-4bit": "86cc6a8dedbc456dd0e4af01a9d09f396f77e558"
+  },
+  "image": "public/art/xiaxia-hopeful-frame68.png",
+  "imageSha256": "5a246d153fbc051d8eb8b50dbb8351e79f2bff99e5449221cb29bfce338bee5c",
+  "promptFile": "docs/prompts/scene-05.txt",
+  "promptSha256": "618c361421129a944bf1f9a7bd9395f16292254f61c8621498dcab5810f7c9b9",
+  "prompt": "Continuous Japanese 2D hand-drawn anime, exactly 4 seconds at normal speed, fixed eye-level camera, no cuts, no zoom, no camera motion. Preserve the reference character identity, hairstyle, clothes, anatomy, classroom and warm late afternoon light from the left. Use the provided Mandarin dialogue audio exactly for subtle syllable-level speech animation, natural mouth opening and closing, with closed lips before speech, during pauses and after speech. Delicate restrained facial acting, stable pupils, a natural blink, gentle breathing. Clean unlettered image, stable identity, restrained acting.\n\nSingle teenage girl with black shoulder-length bob, light blue knitted cardigan and cream top, at the same window desk. She already looks up toward screen right at the start, her brows relaxed and receptive. Her gaze stays toward that same offscreen friend throughout. Looking toward SCREEN RIGHT at her offscreen friend, her shoulders loosen and she exhales gently in relief. Her eyes brighten subtly. She says with shy warmth: the supplied Mandarin line Small natural speech mouth movements, a brief closed-mouth pause after the first short word. After the final word, her lips close into a soft smile that slowly grows, her eyes remain gently bright and she breathes for the final second. Quiet genuine relief, no toothy grin or laughing, no head turn or waving. Nobody else visible.",
+  "frames": 97,
+  "width": 1024,
+  "height": 576,
+  "fps": 24,
+  "seed": 11215,
+  "output": "public/candidates/scene-05-v1.mp4",
+  "audio": "public/audio/drivers/scene-05-v1.wav",
+  "audioSha256": "2f0ab10acb113fdcb6ff0687b9f1fafbd5909797bab9584a7d2492d432740501",
+  "anchors": [
+    {
+      "image": "public/art/xiaxia-hopeful-frame68.png",
+      "frame": 9,
+      "strength": 1.0,
+      "binding": "guide",
+      "imageSha256": "5a246d153fbc051d8eb8b50dbb8351e79f2bff99e5449221cb29bfce338bee5c"
+    },
+    {
+      "image": "public/art/xiaxia-hopeful-frame68.png",
+      "frame": 42,
+      "strength": 1.0,
+      "binding": "guide",
+      "imageSha256": "5a246d153fbc051d8eb8b50dbb8351e79f2bff99e5449221cb29bfce338bee5c"
+    },
+    {
+      "image": "public/art/xiaxia-smile-guide.png",
+      "frame": 80,
+      "strength": 0.85,
+      "binding": "guide",
+      "imageSha256": "c993421c655737c5b7ad482318fe2b566ec2a0282523c6ae4ace7f7e01326b84"
+    }
+  ],
+  "exitCode": 0,
+  "wallSeconds": 522.46,
+  "outputSha256": "6abf443c4825325f4753fded1f6fc5360dca4ed9ab6ec2e643011da07246c45c"
+}

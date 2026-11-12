@@ -1,0 +1,41 @@
+{
+  "artworks": [
+    {
+      "shot": "scene-01",
+      "tool": "built-in image_gen",
+      "toolModelVersion": "not exposed",
+      "reference": "public/art/scene-02-original.png",
+      "original": "public/art/scene-01-original.png",
+      "originalSha256": "3c4388467c9aeddeb348d627f4744b6b502fdc0c4e184f87e03dc590a5f668d5",
+      "prompt": "docs/prompts/scene-01-image-effective.txt",
+      "promptSha256": "0d9b20d2fe0fe6bff3608b974f70c45295b08e86a022556197af7e974b091dcd",
+      "normalizedInput": "public/art/scene-01.png",
+      "normalization": "ffmpeg Lanczos to1024x576, full frame, no semantic editing"
+    },
+    {
+      "shot": "scene-02",
+      "tool": "built-in image_gen",
+      "toolModelVersion": "not exposed",
+      "reference": null,
+      "original": "public/art/scene-02-original.png",
+      "originalSha256": "1c5d877de10eab42a227442efc5a177d22b77f17f147bc1152b7625b171a4214",
+      "prompt": "docs/prompts/scene-02-image-effective.txt",
+      "promptSha256": "a7f7273e24c00717348225dc6a7ee10d9108047c3624bbd7b90062e8065ba7bb",
+      "normalizedInput": "public/art/scene-02.png",
+      "normalization": "ffmpeg Lanczos to1024x576, full frame, no semantic editing"
+    },
+    {
+      "shot": "scene-03",
+      "tool": "built-in image_gen",
+      "toolModelVersion": "not exposed",
+      "reference": "public/art/scene-02-original.png",
+      "original": "public/art/scene-03-original.png",
+      "originalSha256": "24ef9dbf0d7b68346e2c63a05ed666b75f72afebffbf05b2cfa1c96e6fef493d",
+      "prompt": "docs/prompts/scene-03-image-effective.txt",
+      "promptSha256": "84174e83131488b1f7a3045b53d4011cd837041dc2a6cf79361ab4f040cc8b03",
+      "normalizedInput": "public/art/scene-03.png",
+      "normalization": "ffmpeg Lanczos to1024x576, full frame, no semantic editing"
+    }
+  ],
+  "note": "Tool original retained under host generated_images as required; runtime reads only project-local copies."
+}

@@ -1,0 +1,41 @@
+{
+  "clipSha256": "656069a1d978bca763ee88c8e6c9e36829137c974b5fcd9c5ac8581fbe281e35",
+  "styleSha256": "436456f93c45361f10efa533e001608f1c3c149c1d6fd0b6e61144b5c712b9b7",
+  "visualReviewed": true,
+  "normalSpeedReviewed": true,
+  "reviewer": "Codex visual inspection, 2026-11-12",
+  "frameRange": [
+    0,
+    95
+  ],
+  "reviewImages": {
+    "full": "docs/reviews/scene-02/full-01.jpg through full-08.jpg, all96 frames",
+    "contact": "docs/reviews/scene-02/contact-01.jpg through contact-08.jpg, all96 frames",
+    "face": "docs/reviews/scene-02/face-01.jpg through face-08.jpg"
+  },
+  "playback": {
+    "source": "public/video/scene-02-v1.mp4",
+    "duration": 4,
+    "rate": 1,
+    "muted": false,
+    "ended": true,
+    "error": null,
+    "startedAt": "2026-11-12T01:56:28.496Z",
+    "endedAt": "2026-11-12T01:56:32.561Z"
+  },
+  "observations": [
+    "女孩保持栗棕短发、米黄上衣、蓝短裤、白鞋与单一木色灰板身份，完整入画；无额外人物。",
+    "逐帧查看全96帧及接触放大，双脚鞋底持续站板，近侧两轮与路面接触，桥架仍连接板身，未见核心离板、离地或板身解体。",
+    "膝盖轻缓起伏，手臂小幅平衡，短发与衣角向左风动，近处花草向左掠过形成跟拍视差；海天轮廓、左侧山体与左上光向连贯。",
+    "人物柔线与水粉场景融合，花海/道路/海天空间分层在连续运动中保留；1倍速播放至4秒结束，未见剪切、冻结或时间轴变速。",
+    "无对白与字幕；最终海风/远浪/滚轮独立音轨已制作，候选自身音频不采用。",
+    "补看全96帧脸部与头发裁切：小幅俯仰、眨眼、微笑变化连续，未见五官消失或新增脸；部分裁切在前倾段靠右，完整画面同时核对。"
+  ],
+  "limitations": [
+    "约3.7–4.0秒白花前景掠过板前部和近侧轮，造成短暂自然遮挡；未通过裁切隐藏。",
+    "细花叶与海面笔触有轻微生成波动；未达到手工逐张原画的绝对几何稳定。",
+    "视线以沿路向前为主，望海幅度很轻；未强行大幅转头。",
+    "代理不能直接试听，声音听感不在本次视觉通过范围。"
+  ],
+  "userAccepted": false
+}

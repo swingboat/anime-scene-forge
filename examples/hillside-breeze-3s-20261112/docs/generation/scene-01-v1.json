@@ -1,0 +1,26 @@
+{
+  "mode": "i2v",
+  "backend": "ltx-2-mlx",
+  "sourceCommit": "747b30ef10e92a011e85b2aa0f6c4ee86ced5218",
+  "modelRevisions": {
+    "dgrauet/ltx-2.3-mlx-q4": "f306259444116d71927188af2fbbf7fdc1a8089a",
+    "mlx-community/gemma-3-12b-it-4bit": "86cc6a8dedbc456dd0e4af01a9d09f396f77e558"
+  },
+  "image": "public/art/scene-01.png",
+  "imageSha256": "87d11502b914c327b2834eb570e7d7bcd0aa441a22987ca6631fb6102a3ab8c3",
+  "promptFile": "docs/prompts/scene-01-video.txt",
+  "promptSha256": "c6086f3fc339447046cdae001ef3b750ba19dae1ff0d6e1bf49a42992510d4be",
+  "prompt": "Preserve the hand-drawn character design and the hand-painted gouache background texture in continuous natural-speed animation. Use subtle believable breathing, gaze and weight shifts, with a small motivated character action. Where the scene contains wind, let hair, cloth and vegetation respond coherently with slightly different timing. Maintain painted surfaces, spatial depth and stable facial identity without texture boiling. Honor the specified camera; give the chosen action room to settle instead of adding unrequested cuts or events.\n\nScene-specific direction (explicit scene choices take priority):\nOne continuous three-second medium shot at normal speed, locked camera. Preserve this exact girl with short chestnut bob, cream blouse, terracotta skirt, facial identity and hillside setting. She remains in place and gently lifts her chin a little to feel a soft breeze, one small natural blink, then settles into a faint closed-mouth smile looking toward screen left. A light breeze from screen left makes loose hair tips, the blouse sleeve edges and foreground grasses sway gently toward the right at slightly different rhythms. Her shoulders breathe subtly. Keep the hand-painted distant hills and sky stable; preserve the same sunlight and brush texture. No dialogue, lips stay closed, one person throughout. Small restrained motions, no walking, no camera pan, no cut, no zoom. Calm reflective mood, no letters or subtitles in the generated image.",
+  "frames": 73,
+  "width": 1024,
+  "height": 576,
+  "fps": 24,
+  "seed": 11212,
+  "output": "public/candidates/scene-01-v1.mp4",
+  "style": "handpainted-film",
+  "styleSha256": "436456f93c45361f10efa533e001608f1c3c149c1d6fd0b6e61144b5c712b9b7",
+  "effectivePromptSha256": "b42ce40835eb5b1b37bdb31b2485cd14c3fcc8ba71f0a7e09ca20e9925a631cb",
+  "exitCode": 0,
+  "wallSeconds": 395.89,
+  "outputSha256": "30def0e751989986330b899f957859d555bedc5803931612e376436b5e3e84ea"
+}

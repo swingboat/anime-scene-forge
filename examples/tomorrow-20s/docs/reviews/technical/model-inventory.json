@@ -1,0 +1,317 @@
+{
+  "platform": "macOS-27.2-arm64-arm-64bit-Mach-O",
+  "python": "3.13.4",
+  "models": [
+    {
+      "role": "video",
+      "repo": "dgrauet/ltx-2.3-mlx-q4",
+      "revision": "f306259444116d71927188af2fbbf7fdc1a8089a",
+      "local": ".cache/models/ltx-q4",
+      "files": [
+        {
+          "path": "LICENSE",
+          "bytes": 19197,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "config.json",
+          "bytes": 951,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "connector.safetensors",
+          "bytes": 6344495512,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "embedded_config.json",
+          "bytes": 7234,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "quantize_config.json",
+          "bytes": 100,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "spatial_upscaler_x2_v1_1.safetensors",
+          "bytes": 995745061,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "spatial_upscaler_x2_v1_1_config.json",
+          "bytes": 275,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "split_model.json",
+          "bytes": 1893,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "transformer-distilled-1.1.safetensors",
+          "bytes": 11322002285,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "vae_decoder.safetensors",
+          "bytes": 814349531,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "vae_encoder.safetensors",
+          "bytes": 637885319,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "audio_vae.safetensors",
+          "bytes": 106509048,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "vocoder.safetensors",
+          "bytes": 258313851,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        }
+      ]
+    },
+    {
+      "role": "text",
+      "repo": "mlx-community/gemma-3-12b-it-4bit",
+      "revision": "86cc6a8dedbc456dd0e4af01a9d09f396f77e558",
+      "local": ".cache/models/gemma-q4",
+      "files": [
+        {
+          "path": "README.md",
+          "bytes": 945,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "added_tokens.json",
+          "bytes": 35,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "chat_template.json",
+          "bytes": 1615,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "config.json",
+          "bytes": 1141,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "generation_config.json",
+          "bytes": 192,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "model-00001-of-00002.safetensors",
+          "bytes": 5367455313,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "model-00002-of-00002.safetensors",
+          "bytes": 2661219935,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "model.safetensors.index.json",
+          "bytes": 108605,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "preprocessor_config.json",
+          "bytes": 570,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "processor_config.json",
+          "bytes": 70,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "special_tokens_map.json",
+          "bytes": 662,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "tokenizer.json",
+          "bytes": 33384568,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "tokenizer.model",
+          "bytes": 4689074,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "tokenizer_config.json",
+          "bytes": 1157007,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        }
+      ]
+    },
+    {
+      "role": "voice",
+      "repo": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16",
+      "revision": "7d3824abff87e49756bb0f83fb5411de75d160c4",
+      "local": ".cache/tts-models/qwen3-voicedesign-bf16",
+      "files": [
+        {
+          "path": ".gitattributes",
+          "bytes": 1519,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "README.md",
+          "bytes": 1068,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "config.json",
+          "bytes": 5232,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "generation_config.json",
+          "bytes": 245,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "merges.txt",
+          "bytes": 1671839,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "model.safetensors",
+          "bytes": 3833402589,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "model.safetensors.index.json",
+          "bytes": 32458,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "preprocessor_config.json",
+          "bytes": 127,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "speech_tokenizer/config.json",
+          "bytes": 2336,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "speech_tokenizer/configuration.json",
+          "bytes": 76,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "speech_tokenizer/model.safetensors",
+          "bytes": 682293092,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "speech_tokenizer/preprocessor_config.json",
+          "bytes": 234,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "tokenizer_config.json",
+          "bytes": 7344,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        },
+        {
+          "path": "vocab.json",
+          "bytes": 2776833,
+          "matchesExpectedBytes": true,
+          "singleLink": true,
+          "isSymlink": false
+        }
+      ]
+    }
+  ]
+}

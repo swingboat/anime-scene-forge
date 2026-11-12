@@ -1,0 +1,24 @@
+{
+  "mode": "a2v",
+  "backend": "ltx-2-mlx",
+  "sourceCommit": "747b30ef10e92a011e85b2aa0f6c4ee86ced5218",
+  "modelRevisions": {
+    "dgrauet/ltx-2.3-mlx-q4": "f306259444116d71927188af2fbbf7fdc1a8089a",
+    "mlx-community/gemma-3-12b-it-4bit": "86cc6a8dedbc456dd0e4af01a9d09f396f77e558"
+  },
+  "image": "public/art/xiaxia-close.png",
+  "imageSha256": "75358aa2260d1b36d6075be838e5eda175cb1c1d2cdff89e0f2c76b33af1d2f3",
+  "promptFile": "docs/prompts/scene-03.txt",
+  "promptSha256": "57c03f22d1b7f83b6a861937fbd89a2c383feae0feaf8309c8c579fe1ae0f512",
+  "prompt": "Continuous Japanese 2D hand-drawn anime, exactly 4 seconds at normal speed, fixed eye-level camera, no cuts, no zoom, no camera motion. Preserve the reference character identity, hairstyle, clothes, anatomy, classroom and warm late afternoon light from the left. Use the provided Mandarin dialogue audio exactly for subtle syllable-level speech animation, natural mouth opening and closing, with closed lips before speech, during pauses and after speech. Delicate restrained facial acting, stable pupils, a natural blink, gentle breathing. Clean unlettered image, stable identity, restrained acting.\n\nSingle teenage girl with black shoulder-length bob, light blue knitted cardigan and cream top, seated beside the same window. Starting from the downcast look, she slowly raises her eyes and chin a little toward SCREEN RIGHT. Her brows relax, sadness changes subtly to hesitant hope. She quietly asks her offscreen friend: the supplied Mandarin line Natural rising question intonation expressed through small attentive eye and brow changes. After speaking, lips close and she waits with hopeful eyes, breathing naturally. No big smile yet, no tears, no face turn away. Nobody else visible.",
+  "frames": 97,
+  "width": 1024,
+  "height": 576,
+  "fps": 24,
+  "seed": 11213,
+  "output": "public/candidates/scene-03-v1.mp4",
+  "audio": "public/audio/drivers/scene-03-v1.wav",
+  "audioSha256": "fcd6c0093c7e867bcc191fde225d4b04aaa97c4358eec0b3a12f02187dbf7a21",
+  "exitCode": -2,
+  "wallSeconds": 123.73
+}

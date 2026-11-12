@@ -1,0 +1,38 @@
+{
+  "status": "pass",
+  "scope": "Encoded audio placement and sample-envelope comparison. Does not verify voice quality or phoneme lip sync.",
+  "fileSha256": "d0b2b8c1980d09e45be103a3a8713b0aaf935e940ef1f665b4bde77779507670",
+  "sampleRate": 48000,
+  "lagSamples": 0,
+  "lagMs": 0.0,
+  "correlation": 0.9999623534911785,
+  "peak": 0.536166787147522,
+  "rmsDbfs": -22.66477361132697,
+  "dialogueWindows": [
+    {
+      "shot": "scene-01",
+      "seconds": 0.25,
+      "endSeconds": 3.69
+    },
+    {
+      "shot": "scene-02",
+      "seconds": 4.375,
+      "endSeconds": 6.855
+    },
+    {
+      "shot": "scene-03",
+      "seconds": 8.5,
+      "endSeconds": 10.1
+    },
+    {
+      "shot": "scene-04",
+      "seconds": 12.333333333333334,
+      "endSeconds": 14.733333333333333
+    },
+    {
+      "shot": "scene-05",
+      "seconds": 16.416666666666668,
+      "endSeconds": 18.976666666666667
+    }
+  ]
+}

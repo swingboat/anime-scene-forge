@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "title": "明天，我也在",
+  "format": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "durationFrames": 480
+  },
+  "fontFile": "fonts/NotoSansSC.ttf",
+  "background": {
+    "file": "audio/bed.wav",
+    "volume": 0.85
+  },
+  "sfx": [],
+  "shots": [
+    {
+      "id": "scene-01",
+      "frames": 96,
+      "action": "小夏坐在窗边低头，叹气后失落地说话；阿晴安静倾听。",
+      "art": "art/master-two-shot.png",
+      "clip": "video/scene-01-v1.mp4",
+      "status": "approved",
+      "review": "docs/reviews/scene-01-v1.json",
+      "selection": "docs/selections/scene-01-v1.json",
+      "generation": "docs/generation/scene-01-v1.json",
+      "caption": {
+        "text": "今天的演讲……又搞砸了。",
+        "startFrame": 6,
+        "endFrame": 92
+      },
+      "dialogue": {
+        "text": "今天的演讲……又搞砸了。",
+        "character": "xiaxia",
+        "sync": "on-screen",
+        "fromFrame": 6,
+        "file": "audio/voices/scene-01-v1.wav",
+        "driverStartFrame": 0,
+        "driverFile": "audio/drivers/scene-01-v1.wav",
+        "driverSha256": "15187d48218f5f2feaeb55f2a9384e69012cfe779cc4677f72f3f9baa315cd59",
+        "voiceSha256": "b31a43cbfd73a7327bf5efee401bcbc08a61d4ff91990d395f38b99a208b723f"
+      }
+    },
+    {
+      "id": "scene-02",
+      "frames": 96,
+      "action": "阿晴中近景看向画面左侧，微微前倾，温柔鼓励。",
+      "art": "art/aqing-medium.png",
+      "clip": "video/scene-02-v2-medium.mp4",
+      "status": "approved",
+      "review": "docs/reviews/scene-02-v2-medium.json",
+      "selection": "docs/selections/scene-02-v2-medium.json",
+      "generation": "docs/generation/scene-02-v2.json",
+      "caption": {
+        "text": "紧张很正常。明天继续练。",
+        "startFrame": 9,
+        "endFrame": 72
+      },
+      "dialogue": {
+        "text": "紧张很正常。明天继续练。",
+        "character": "aqing",
+        "sync": "on-screen",
+        "fromFrame": 9,
+        "file": "audio/voices/scene-02-v1.wav",
+        "driverStartFrame": 0,
+        "driverFile": "audio/drivers/scene-02-v1.wav",
+        "driverSha256": "2c7a47d892d1e22327679957609a98686b1a83b57837edaab39a483f7188ad98",
+        "voiceSha256": "5b48013d72f80e5b4a1b3543cedca12ad6e66796a1ef0b5e5cba347d8a9c9f55"
+      }
+    },
+    {
+      "id": "scene-03",
+      "frames": 96,
+      "action": "小夏近景抬眼看向画面右侧，低落转为期待，轻声询问。",
+      "art": "art/xiaxia-close.png",
+      "clip": "video/scene-03-v2.mp4",
+      "status": "approved",
+      "review": "docs/reviews/scene-03-v2.json",
+      "selection": "docs/selections/scene-03-v2.json",
+      "generation": "docs/generation/scene-03-v2.json",
+      "caption": {
+        "text": "你还愿意陪我练？",
+        "startFrame": 12,
+        "endFrame": 54
+      },
+      "dialogue": {
+        "text": "你还愿意陪我练？",
+        "character": "xiaxia",
+        "sync": "on-screen",
+        "fromFrame": 12,
+        "file": "audio/voices/scene-03-v1.wav",
+        "driverStartFrame": 0,
+        "driverFile": "audio/drivers/scene-03-v1.wav",
+        "driverSha256": "fcd6c0093c7e867bcc191fde225d4b04aaa97c4358eec0b3a12f02187dbf7a21",
+        "voiceSha256": "0f26fde6423557d33c9cfdf86f2ad2a3378d8e7a1e44653513c21d1d4f35498a"
+      }
+    },
+    {
+      "id": "scene-04",
+      "frames": 96,
+      "action": "阿晴近景轻轻点头，坚定微笑，做出承诺。",
+      "art": "art/aqing-close.png",
+      "clip": "video/scene-04-v2.mp4",
+      "status": "approved",
+      "review": "docs/reviews/scene-04-v2.json",
+      "selection": "docs/selections/scene-04-v2.json",
+      "generation": "docs/generation/scene-04-v2.json",
+      "caption": {
+        "text": "当然。明天，我也在。",
+        "startFrame": 8,
+        "endFrame": 69
+      },
+      "dialogue": {
+        "text": "当然。明天，我也在。",
+        "character": "aqing",
+        "sync": "on-screen",
+        "fromFrame": 8,
+        "file": "audio/voices/scene-04-v1.wav",
+        "driverStartFrame": 0,
+        "driverFile": "audio/drivers/scene-04-v1.wav",
+        "driverSha256": "4959de19f035b3c49f6240534b4485b60bac555742a8bcc70c2efadbbf96aade",
+        "voiceSha256": "132028b7f1b1392386dfeaa095fd44ff83076cef23159004f083c1bd7b7b278b"
+      }
+    },
+    {
+      "id": "scene-05",
+      "frames": 96,
+      "action": "小夏近景肩膀放松，眼睛微亮，轻轻回应后保留自然微笑与呼吸。",
+      "art": "art/xiaxia-hopeful-frame68.png",
+      "clip": "video/scene-05-v1.mp4",
+      "status": "approved",
+      "review": "docs/reviews/scene-05-v1.json",
+      "selection": "docs/selections/scene-05-v1.json",
+      "generation": "docs/generation/scene-05-v1.json",
+      "caption": {
+        "text": "好。那我们明天见。",
+        "startFrame": 10,
+        "endFrame": 75
+      },
+      "dialogue": {
+        "text": "好。那我们明天见。",
+        "character": "xiaxia",
+        "sync": "on-screen",
+        "fromFrame": 10,
+        "file": "audio/voices/scene-05-v1.wav",
+        "driverStartFrame": 0,
+        "driverFile": "audio/drivers/scene-05-v1.wav",
+        "driverSha256": "2f0ab10acb113fdcb6ff0687b9f1fafbd5909797bab9584a7d2492d432740501",
+        "voiceSha256": "3d83a097a6a8aa122ef17e4ec60d4a61e454a46ed021124b6a2195e56a8a3f67"
+      }
+    }
+  ]
+}

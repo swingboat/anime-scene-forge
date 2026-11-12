@@ -1,0 +1,7 @@
+{
+  "status": "cancelled-before-completion",
+  "reason": "After observing early lip preparation in scene02, this own-task generation was interrupted during the low-resolution pass to add the validated pre-speech closed-mouth guide, rather than spending the full high-resolution pass on an unguarded version.",
+  "visualReviewed": false,
+  "normalSpeedReviewed": false,
+  "candidateProduced": false
+}

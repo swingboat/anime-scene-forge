@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "classic-anime",
+  "name": "经典日系动画风",
+  "imagePrompt": "Japanese 2D cel animation. Clean confident ink contours, expressive readable character silhouettes, restrained flat cel shading with clearly separated shadow shapes, coherent painted backgrounds. Preserve character proportions, clothing, palette and light direction across shots. Compose a single full-frame animation keyframe; leave any requested captions to the editing stage.",
+  "videoPrompt": "Maintain the reference's clean 2D ink contours and flat cel shading throughout continuous natural-speed character acting. Keep facial identity, anatomy, costume and background geometry stable. Use clear expressions, eye direction and economical purposeful gestures. Preserve the scene's chosen camera and lighting; adapt speech to the supplied dialogue audio when present.",
+  "soundDirection": "Prioritize intelligible dialogue and clearly timed action sounds. Choose music and ambience for this scene; avoid masking speech. Style alone does not require dialogue or music.",
+  "reviewChecks": [
+    "全片线条、平涂阴影、人物比例与服装一致，背景保持二维画感",
+    "表情与动作清楚自然；可见对白按实际音轨检查开闭口与听者反应",
+    "镜头切换保持视线、光向与空间连续；音效按实际接触帧标定"
+  ]
+}

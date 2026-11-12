@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "handpainted-film",
+  "name": "手绘动画电影风",
+  "imagePrompt": "A theatrical hand-drawn 2D animated film keyframe. Expressive simply drawn characters integrated into richly hand-painted gouache and watercolor backgrounds, visible paper and brush texture, nuanced natural light and atmospheric depth. Use a coherent restrained palette, tactile everyday details and cinematic spatial composition. Keep the subject's silhouette and face legible within the environment. One full-frame image, with any requested captions added in editing.",
+  "videoPrompt": "Preserve the hand-drawn character design and the hand-painted gouache background texture in continuous natural-speed animation. Use subtle believable breathing, gaze and weight shifts, with a small motivated character action. Where the scene contains wind, let hair, cloth and vegetation respond coherently with slightly different timing. Maintain painted surfaces, spatial depth and stable facial identity without texture boiling. Honor the specified camera; give the chosen action room to settle instead of adding unrequested cuts or events.",
+  "soundDirection": "Use scene-specific environmental sound and quiet detail to support the sense of place. Allow pauses and light musical treatment when appropriate; preserve clear speech if the scene has dialogue. Do not require a particular composer, soundtrack or voice.",
+  "reviewChecks": [
+    "人物线稿与手绘背景融合；水粉笔触、自然光、色彩与空间深度在运动中保持稳定",
+    "呼吸、视线或重心变化可见而克制；头发、衣物和草木等环境运动方向连贯",
+    "全片1倍速检查构图、留白与动作收尾；不以静图平移或变速代替连续表演",
+    "环境声音服务于场景，音效与可见动作对应；技术通过与艺术验收分开记录"
+  ]
+}

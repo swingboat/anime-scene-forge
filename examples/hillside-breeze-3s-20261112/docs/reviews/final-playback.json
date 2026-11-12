@@ -1,0 +1,14 @@
+{
+  "file": "outputs/final.mp4",
+  "sha256": "d33bc3009006141f53a49f43f1d58e8d23fa906c0aa3ef030cf88fb2aa6ebc91",
+  "source": "final.mp4",
+  "browser": "IAB",
+  "currentTime": 3,
+  "duration": 3,
+  "ended": true,
+  "playbackRate": 1,
+  "muted": false,
+  "mediaError": null,
+  "date": "2026-11-12",
+  "scope": "Actual final playback reached the end; visual review covered all numbered full/face frames. No direct audio audition or user acceptance claimed."
+}

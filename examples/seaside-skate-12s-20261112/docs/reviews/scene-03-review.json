@@ -1,0 +1,39 @@
+{
+  "clipSha256": "635bd8da4c55d0c903f401e88eeda80abfb23d8442c58bad70c666219ac05953",
+  "styleSha256": "436456f93c45361f10efa533e001608f1c3c149c1d6fd0b6e61144b5c712b9b7",
+  "visualReviewed": true,
+  "normalSpeedReviewed": true,
+  "reviewer": "Codex actual frame and browser playback inspection,2026-11-12",
+  "frameRange": [
+    0,
+    95
+  ],
+  "reviewImages": [
+    "docs/reviews/scene-03/full-01.jpg through full-08.jpg",
+    "docs/reviews/scene-03/character-01.jpg through character-08.jpg, all96 frames; following crop used only for inspection"
+  ],
+  "playback": {
+    "source": "public/video/scene-03-v1.mp4",
+    "duration": 4,
+    "rate": 1,
+    "muted": false,
+    "ended": true,
+    "error": null,
+    "startedAt": "2026-11-12T02:17:05.905Z",
+    "endedAt": "2026-11-12T02:17:09.941Z"
+  },
+  "observations": [
+    "实际查看全96帧完整画面和人物/滑板放大图；女孩从斜后方沿路向右前方滑远，人物逐渐缩小，画面保留更多海天空阔感。",
+    "同一短栗棕发、米黄上衣、蓝短裤、白鞋；双臂小幅调节、膝盖变化、短发随风；无额外人物或新物体。",
+    "双脚持续站板，板身/桥架/轮子保持单一相连结构，斜后透视随滑远连续变化，轮子贴路，未见跳跃、蹬地或核心接触错误。",
+    "大海在道路远侧、绿色山体和海岬在左，道路曲向右前方，左上光与向右影子保持一致，海平线稳定；手绘背景、人物线条和色彩统一。",
+    "1倍速、不静音播放至4秒结束，媒体无错误；安静收尾中仍有连续人物/环境运动，未以静图缩放或冻结补时。"
+  ],
+  "limitations": [
+    "收尾镜头打开幅度较轻，主要由女孩滑远和自然景深变化形成留白，海平线高度基本不变。",
+    "女孩背面角度不用于单独证明正脸精确稳定；正脸身份已在侧面镜头逐帧检查。",
+    "细花叶及发梢保留轻微生成波动；放大检查图部分帧的人物靠裁切边，完整画面同时检查，实际交付未裁切。",
+    "代理无法直接试听音效。"
+  ],
+  "userAccepted": false
+}

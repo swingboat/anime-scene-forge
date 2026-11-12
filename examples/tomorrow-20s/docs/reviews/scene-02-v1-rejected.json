@@ -1,0 +1,9 @@
+{
+  "status": "rejected",
+  "candidate": "public/candidates/scene-02-v1.mp4",
+  "visualReviewed": true,
+  "normalSpeedReviewed": false,
+  "observations": "Viewed all96 full frames and all96 face frames. Identity, hands, clothes, light and sentence-pause closure are stable; no generated text. First mouth opening begins around frame3 while audible signal activity begins frame10, approximately0.29s early. Second group also prepares several frames early.",
+  "correction": "Use original closed-mouth medium-scene guides at frames8 and47, just before the two speech activity groups. Keep actual adopted audio and native speed.",
+  "userAccepted": false
+}

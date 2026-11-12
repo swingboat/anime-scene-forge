@@ -1,0 +1,12 @@
+{
+  "testShot": "scene-02",
+  "seconds": 4,
+  "adoptedFrameRange": [
+    0,
+    95
+  ],
+  "internalVisualDecision": "pass with recorded minor limitations",
+  "userAcceptance": false,
+  "decisionBeforeOtherVideoGeneration": true,
+  "review": "docs/reviews/scene-02-review.json"
+}

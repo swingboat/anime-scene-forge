@@ -1,0 +1,10 @@
+{
+  "file": "outputs/review-candidate.mp4",
+  "targetSeconds": 20.0,
+  "inputSha256": "90b77e044ed791c205b170347cf892b69b7e446c31e6c6992b93937d66ec5432",
+  "videoReencoded": false,
+  "original": "outputs/intermediate/review-candidate-remotion-20261111T034247327596Z.mp4",
+  "trimmedAudioTailSeconds": 0.010999999999999233,
+  "processing": "Video stream copy; AAC audio trim to exact composition duration and reencode at320kbps. No speech tempo or placement change.",
+  "outputSha256": "d0b2b8c1980d09e45be103a3a8713b0aaf935e940ef1f665b4bde77779507670"
+}

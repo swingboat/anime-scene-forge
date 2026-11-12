@@ -1,0 +1,10 @@
+{
+  "backend": "ffmpeg exact video-frame extraction",
+  "source": "public/video/scene-03-v2.mp4",
+  "sourceSha256": "aaaefb5b101a80518fb04fd64ea127222c9093f2515c986bc1eb531f2ddef78e",
+  "sourceFrame": 68,
+  "fps": 24,
+  "output": "public/art/xiaxia-hopeful-frame68.png",
+  "outputSha256": "5a246d153fbc051d8eb8b50dbb8351e79f2bff99e5449221cb29bfce338bee5c",
+  "purpose": "Clean closed-mouth hopeful identity/pose for scene05, not a held/looped final video frame."
+}

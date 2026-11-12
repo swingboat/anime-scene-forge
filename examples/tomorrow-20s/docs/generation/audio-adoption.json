@@ -1,0 +1,205 @@
+{
+  "voices": [
+    {
+      "shot": "scene-01",
+      "seconds": 3.44,
+      "fromFrame": 6,
+      "speed": 1,
+      "gain": 1.35,
+      "sourceSha256": "2582543f5ebea267ea05b4c2863b198a414f357bd1cdac5cf992cd8778bb5720",
+      "sha256": "b31a43cbfd73a7327bf5efee401bcbc08a61d4ff91990d395f38b99a208b723f"
+    },
+    {
+      "shot": "scene-02",
+      "seconds": 2.48,
+      "fromFrame": 9,
+      "speed": 1,
+      "gain": 1.35,
+      "sourceSha256": "3a23c231351ddde9cece345ee1669dd17cf10a2c8700ed673a0a1c3b2730994e",
+      "sha256": "5b48013d72f80e5b4a1b3543cedca12ad6e66796a1ef0b5e5cba347d8a9c9f55"
+    },
+    {
+      "shot": "scene-03",
+      "seconds": 1.6,
+      "fromFrame": 12,
+      "speed": 1,
+      "gain": 1.35,
+      "sourceSha256": "96251d6499ed927a4e2269b63b4842f985021c22d0eeb8660591716c53ec509c",
+      "sha256": "0f26fde6423557d33c9cfdf86f2ad2a3378d8e7a1e44653513c21d1d4f35498a"
+    },
+    {
+      "shot": "scene-04",
+      "seconds": 2.4,
+      "fromFrame": 8,
+      "speed": 1,
+      "gain": 1.35,
+      "sourceSha256": "8c2219b8a3025875faaae04b3305050492e0cae797425098da2647d7606309b9",
+      "sha256": "132028b7f1b1392386dfeaa095fd44ff83076cef23159004f083c1bd7b7b278b"
+    },
+    {
+      "shot": "scene-05",
+      "seconds": 2.56,
+      "fromFrame": 10,
+      "speed": 1,
+      "gain": 1.35,
+      "sourceSha256": "479006a538ec39c6285f925eda1d56dad648ae3196c55c88397af829ffec2a51",
+      "sha256": "3d83a097a6a8aa122ef17e4ec60d4a61e454a46ed021124b6a2195e56a8a3f67"
+    }
+  ],
+  "processing": "No speed changes, no voice cuts; gain and 24kHz to 48kHz stereo conversion only.",
+  "music": "Original additive struck-string piano synthesis, five bars, no external recording.",
+  "score": [
+    {
+      "seconds": 0.12,
+      "midi": 48,
+      "velocity": 0.48
+    },
+    {
+      "seconds": 0.46,
+      "midi": 64,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 1.12,
+      "midi": 67,
+      "velocity": 0.28
+    },
+    {
+      "seconds": 1.78,
+      "midi": 71,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 2.44,
+      "midi": 67,
+      "velocity": 0.28
+    },
+    {
+      "seconds": 3.1,
+      "midi": 76,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 4.12,
+      "midi": 45,
+      "velocity": 0.48
+    },
+    {
+      "seconds": 4.46,
+      "midi": 60,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 5.12,
+      "midi": 64,
+      "velocity": 0.28
+    },
+    {
+      "seconds": 5.78,
+      "midi": 69,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 6.4399999999999995,
+      "midi": 64,
+      "velocity": 0.28
+    },
+    {
+      "seconds": 7.1,
+      "midi": 71,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 8.12,
+      "midi": 41,
+      "velocity": 0.48
+    },
+    {
+      "seconds": 8.459999999999999,
+      "midi": 60,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 9.12,
+      "midi": 64,
+      "velocity": 0.28
+    },
+    {
+      "seconds": 9.78,
+      "midi": 69,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 10.44,
+      "midi": 64,
+      "velocity": 0.28
+    },
+    {
+      "seconds": 11.1,
+      "midi": 72,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 12.12,
+      "midi": 43,
+      "velocity": 0.48
+    },
+    {
+      "seconds": 12.459999999999999,
+      "midi": 62,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 13.12,
+      "midi": 67,
+      "velocity": 0.28
+    },
+    {
+      "seconds": 13.78,
+      "midi": 69,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 14.44,
+      "midi": 67,
+      "velocity": 0.28
+    },
+    {
+      "seconds": 15.1,
+      "midi": 74,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 16.12,
+      "midi": 48,
+      "velocity": 0.48
+    },
+    {
+      "seconds": 16.46,
+      "midi": 64,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 17.12,
+      "midi": 67,
+      "velocity": 0.28
+    },
+    {
+      "seconds": 17.78,
+      "midi": 69,
+      "velocity": 0.34
+    },
+    {
+      "seconds": 18.44,
+      "midi": 67,
+      "velocity": 0.28
+    },
+    {
+      "seconds": 19.1,
+      "midi": 72,
+      "velocity": 0.34
+    }
+  ],
+  "pianoRmsDbfs": -33.02075390024007,
+  "roomRmsDbfs": -52.27426758624432
+}

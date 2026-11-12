@@ -1,0 +1,41 @@
+{
+  "mode": "a2v",
+  "backend": "ltx-2-mlx",
+  "sourceCommit": "747b30ef10e92a011e85b2aa0f6c4ee86ced5218",
+  "modelRevisions": {
+    "dgrauet/ltx-2.3-mlx-q4": "f306259444116d71927188af2fbbf7fdc1a8089a",
+    "mlx-community/gemma-3-12b-it-4bit": "86cc6a8dedbc456dd0e4af01a9d09f396f77e558"
+  },
+  "image": "public/art/aqing-close.png",
+  "imageSha256": "38068bb2dfae809bd73fbf80d3bbfce1e2ecf7caba03a8b5160a460fe7c8810e",
+  "promptFile": "docs/prompts/scene-04-v2.txt",
+  "promptSha256": "b1cd5d3c7f56af32df38b05f1e3f7bc5e1cf5102212777fbd3d554b9483528f9",
+  "prompt": "A continuous cinematic four-second Japanese 2D hand-drawn anime close-up of the same seated teenage girl, dark chestnut high ponytail, amber eyes, white collared blouse. Same classroom, warm sunset from the left, fixed camera, normal speed. She looks gently toward screen left and makes a quiet reassuring promise in Mandarin, matching the supplied audio precisely with small natural opening and closing lip movements. She keeps her lips closed during the initial silence and the sentence pause. One tiny confident nod, stable eyes, calm affectionate expression. When the audio ends, her lips close into a restrained smile while she breathes naturally. Preserve the original face and hairstyle. Clean unlettered image throughout, with a plain blouse and background. Only one person.",
+  "frames": 97,
+  "width": 1024,
+  "height": 576,
+  "fps": 24,
+  "seed": 11210,
+  "output": "public/candidates/scene-04-v2.mp4",
+  "audio": "public/audio/drivers/scene-04-v1.wav",
+  "audioSha256": "4959de19f035b3c49f6240534b4485b60bac555742a8bcc70c2efadbbf96aade",
+  "anchors": [
+    {
+      "image": "public/art/aqing-close.png",
+      "frame": 6,
+      "strength": 1.0,
+      "binding": "guide",
+      "imageSha256": "38068bb2dfae809bd73fbf80d3bbfce1e2ecf7caba03a8b5160a460fe7c8810e"
+    },
+    {
+      "image": "public/art/aqing-close.png",
+      "frame": 72,
+      "strength": 1.0,
+      "binding": "guide",
+      "imageSha256": "38068bb2dfae809bd73fbf80d3bbfce1e2ecf7caba03a8b5160a460fe7c8810e"
+    }
+  ],
+  "exitCode": 0,
+  "wallSeconds": 453.49,
+  "outputSha256": "f5fd3e9e815fb89e9547f706ae82658193d05666211e05a3606ba531130beb6e"
+}

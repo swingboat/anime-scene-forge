@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "title": "海风里的暑假",
+  "style": "handpainted-film",
+  "format": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "durationFrames": 288
+  },
+  "fontFile": null,
+  "background": {
+    "file": "audio/coastal-mix.wav",
+    "volume": 1
+  },
+  "sfx": [],
+  "shots": [
+    {
+      "id": "scene-01",
+      "frames": 96,
+      "action": "远景：临海山坡花海与蜿蜒道路，女孩从左向右平稳滑入。",
+      "art": "art/scene-01.png",
+      "clip": "video/scene-01-v1.mp4",
+      "status": "approved",
+      "review": "docs/reviews/scene-01-review.json",
+      "selection": "docs/selections/scene-01-v1.json",
+      "generation": "docs/generation/scene-01-v1.json",
+      "caption": null,
+      "dialogue": null
+    },
+    {
+      "id": "scene-02",
+      "frames": 96,
+      "action": "侧面跟拍：女孩完整入画，双脚稳站滑板，膝盖与双臂柔和调整平衡，微笑望海。",
+      "art": "art/scene-02.png",
+      "clip": "video/scene-02-v1.mp4",
+      "status": "approved",
+      "review": "docs/reviews/scene-02-review.json",
+      "selection": "docs/selections/scene-02-v1.json",
+      "generation": "docs/generation/scene-02-v1.json",
+      "caption": null,
+      "dialogue": null
+    },
+    {
+      "id": "scene-03",
+      "frames": 96,
+      "action": "斜后远景：女孩顺路向右前方滑远，镜头缓缓打开，海天留白增加。",
+      "art": "art/scene-03.png",
+      "clip": "video/scene-03-v1.mp4",
+      "status": "approved",
+      "review": "docs/reviews/scene-03-review.json",
+      "selection": "docs/selections/scene-03-v1.json",
+      "generation": "docs/generation/scene-03-v1.json",
+      "caption": null,
+      "dialogue": null
+    }
+  ]
+}

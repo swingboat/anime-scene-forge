@@ -1,0 +1,175 @@
+{
+  "scope": "Copies of existing evidence; approval decisions unchanged.",
+  "files": [
+    {
+      "source": "outputs/checks/scene-01/30bdf5e5c0/hands-keyframes.jpg",
+      "archive": "docs/reviews/evidence/scene-01/hands-keyframes.jpg",
+      "sha256": "8ccc11912e919c1f9b875549ac1272bbe92ac92101e86468f2375086fd5ceac2"
+    },
+    {
+      "source": "outputs/checks/scene-01/30bdf5e5c0/face-all-frames.jpg",
+      "archive": "docs/reviews/evidence/scene-01/face-all-frames.jpg",
+      "sha256": "2c149b913798f13d063bc24e8f407db58f5bafaedee080674d54aaada312ef6a"
+    },
+    {
+      "source": "outputs/checks/scene-01/30bdf5e5c0/overview-every-fourth.jpg",
+      "archive": "docs/reviews/evidence/scene-01/overview-every-fourth.jpg",
+      "sha256": "5e2e500e818abe2d3f0176d35460173fcdc0d6f5ca174845416ff4d705cf5392"
+    },
+    {
+      "source": "outputs/checks/scene-01/30bdf5e5c0/all-frames.jpg",
+      "archive": "docs/reviews/evidence/scene-01/all-frames.jpg",
+      "sha256": "493e672454c526958119f26c1a765bdd363f06ed77f94f3949a4a3902144cd57"
+    },
+    {
+      "source": "outputs/checks/scene-01/30bdf5e5c0/listener-all-frames.jpg",
+      "archive": "docs/reviews/evidence/scene-01/listener-all-frames.jpg",
+      "sha256": "54a1f4ed99a9211cce63193d0cff4f8f58c40103cc49227306b251de51c04033"
+    },
+    {
+      "source": "outputs/checks/scene-01/30bdf5e5c0/sheet-index.json",
+      "archive": "docs/reviews/evidence/scene-01/sheet-index.json",
+      "sha256": "1203836c855d44342eecf30e8feda150c3ad46bcc1f9e69d2a6a35c8fc3bda99"
+    },
+    {
+      "source": "outputs/checks/scene-02/81a76b30df/uncropped-overview.jpg",
+      "archive": "docs/reviews/evidence/scene-02/uncropped-overview.jpg",
+      "sha256": "9fe5a6e7ade2c97f8c49b8673ce1726aae3116aad1f0c4452cfb6944cb511035"
+    },
+    {
+      "source": "outputs/checks/scene-02/81a76b30df/hands-before-crop.jpg",
+      "archive": "docs/reviews/evidence/scene-02/hands-before-crop.jpg",
+      "sha256": "ff34275259cb631b457e356b7320452625943a52f7c20b4dcbc3a5fc6a01b2f6"
+    },
+    {
+      "source": "outputs/checks/scene-02/81a76b30df/face-all-frames.jpg",
+      "archive": "docs/reviews/evidence/scene-02/face-all-frames.jpg",
+      "sha256": "8c0d93e203e3ae38972868b462f0deee8f6ca668c96c593bc434a705619df591"
+    },
+    {
+      "source": "outputs/checks/scene-02/81a76b30df/overview-every-fourth.jpg",
+      "archive": "docs/reviews/evidence/scene-02/overview-every-fourth.jpg",
+      "sha256": "a64d6a1a38c2cac19447f90e4172f85bd402aa924ef0e575782c30bdbe0d1950"
+    },
+    {
+      "source": "outputs/checks/scene-02/81a76b30df/all-frames.jpg",
+      "archive": "docs/reviews/evidence/scene-02/all-frames.jpg",
+      "sha256": "e34b00538febdeaa432483989d405dbe8ff11c87f01cbc87e37682784195064d"
+    },
+    {
+      "source": "outputs/checks/scene-02/81a76b30df/sheet-index.json",
+      "archive": "docs/reviews/evidence/scene-02/sheet-index.json",
+      "sha256": "964893472cb40d43343fd4c432d21ed58a9e7a65854dbe0fa244405413c1e238"
+    },
+    {
+      "source": "outputs/checks/scene-03/aaaefb5b10/face-all-frames.jpg",
+      "archive": "docs/reviews/evidence/scene-03/face-all-frames.jpg",
+      "sha256": "b146794baeb46933b98ec221e1815330a4e88b88136fd69ec79c8786907dbb74"
+    },
+    {
+      "source": "outputs/checks/scene-03/aaaefb5b10/overview-every-fourth.jpg",
+      "archive": "docs/reviews/evidence/scene-03/overview-every-fourth.jpg",
+      "sha256": "57ee1bdc38cc323c18fd3064e46457dc49269d24944134f62b981200656bd03e"
+    },
+    {
+      "source": "outputs/checks/scene-03/aaaefb5b10/all-frames.jpg",
+      "archive": "docs/reviews/evidence/scene-03/all-frames.jpg",
+      "sha256": "08538de1c986cfc56edf919cdc207cb855c3cecf741f7944851a48c862894f25"
+    },
+    {
+      "source": "outputs/checks/scene-03/aaaefb5b10/sheet-index.json",
+      "archive": "docs/reviews/evidence/scene-03/sheet-index.json",
+      "sha256": "8746a539506528fc6fd6e508aba3f7c50ed49fc4c61b127c484c0fff0f36771b"
+    },
+    {
+      "source": "outputs/checks/scene-04/1d59cafbd7/face-all-frames.jpg",
+      "archive": "docs/reviews/evidence/scene-04/face-all-frames.jpg",
+      "sha256": "75962a82d1699e3be869b9ea71cb21db041edbd41eff5c569e45b6ddadad0310"
+    },
+    {
+      "source": "outputs/checks/scene-04/1d59cafbd7/overview-every-fourth.jpg",
+      "archive": "docs/reviews/evidence/scene-04/overview-every-fourth.jpg",
+      "sha256": "48522b0b4558a24dd01fc2c9a7449774e3e36ae41502ed83ae58dbb691996dc7"
+    },
+    {
+      "source": "outputs/checks/scene-04/1d59cafbd7/all-frames.jpg",
+      "archive": "docs/reviews/evidence/scene-04/all-frames.jpg",
+      "sha256": "45ac4b5d21c82101e62555660ef38594e018b404ac2f9353188dcef85568a5dc"
+    },
+    {
+      "source": "outputs/checks/scene-04/1d59cafbd7/sheet-index.json",
+      "archive": "docs/reviews/evidence/scene-04/sheet-index.json",
+      "sha256": "d6ed680c318a922b20e55a8910fe52ad533dce2eee163439f17bda0c81209e75"
+    },
+    {
+      "source": "outputs/checks/scene-05/c73b04053c/face-all-frames.jpg",
+      "archive": "docs/reviews/evidence/scene-05/face-all-frames.jpg",
+      "sha256": "147bdc469429f1d09e9b4656e8ee1a1227dbe90d740a33f75fdd336c097ea048"
+    },
+    {
+      "source": "outputs/checks/scene-05/c73b04053c/overview-every-fourth.jpg",
+      "archive": "docs/reviews/evidence/scene-05/overview-every-fourth.jpg",
+      "sha256": "894ba36453ad01741609d1d90fe9609dadf74aac25b7724519399908ae71ba0a"
+    },
+    {
+      "source": "outputs/checks/scene-05/c73b04053c/all-frames.jpg",
+      "archive": "docs/reviews/evidence/scene-05/all-frames.jpg",
+      "sha256": "cebba167c3b10406080bff465a678516da0f5907f45900e47b8374eeda99bae9"
+    },
+    {
+      "source": "outputs/checks/scene-05/c73b04053c/sheet-index.json",
+      "archive": "docs/reviews/evidence/scene-05/sheet-index.json",
+      "sha256": "79b5e675148d5cf16aafdf255c6c41309d7f5df4985b6f9debfdc3a649be0a02"
+    },
+    {
+      "source": "outputs/checks/dialogue-activity.json",
+      "archive": "docs/reviews/technical/dialogue-activity.json",
+      "sha256": "16e71e5c625ab8668f7196368588903cc546d16e06b545f0c9541f7f95d7bad5"
+    },
+    {
+      "source": "outputs/checks/audio-mix.json",
+      "archive": "docs/reviews/technical/audio-mix.json",
+      "sha256": "dccf4c3969ba55f563f2a2634aea7d79410ad57e6c2d9c8abb605d96c388cb04"
+    },
+    {
+      "source": "outputs/checks/export.json",
+      "archive": "docs/reviews/technical/export.json",
+      "sha256": "5f5967a87243e3e7e96f795249638e425787b40befc925a1d47da29eecb9fa51"
+    },
+    {
+      "source": "outputs/checks/generation-inputs.json",
+      "archive": "docs/reviews/technical/generation-inputs.json",
+      "sha256": "03b2b431f7bdaffc41acd997ca8d8e3fec8107f698f981f7857e4918afd49804"
+    },
+    {
+      "source": "outputs/checks/runtime-isolation.json",
+      "archive": "docs/reviews/technical/runtime-isolation.json",
+      "sha256": "e8bd831e1a3b3a58971859a9eb5e24ac212205d2d0a113898ba3a08d81241d50"
+    },
+    {
+      "source": "outputs/checks/speech-text.json",
+      "archive": "docs/reviews/technical/speech-text.json",
+      "sha256": "e8aae385802833de058c25b57d941b8b0692565df553d94b962735eae9732ec2"
+    },
+    {
+      "source": "outputs/checks/final-audio-tail.json",
+      "archive": "docs/reviews/technical/final-audio-tail.json",
+      "sha256": "f43544f8c175568097275065604213d20b567849a577d1dbcad37fd292e991bd"
+    },
+    {
+      "source": "outputs/checks/model-inventory.json",
+      "archive": "docs/reviews/technical/model-inventory.json",
+      "sha256": "dbc429faa3c26035bf678b344299d23f4c26bde198bc94778d7d3aba270e2bf5"
+    },
+    {
+      "source": "outputs/checks/review-candidate-audio-tail.json",
+      "archive": "docs/reviews/technical/review-candidate-audio-tail.json",
+      "sha256": "9f4e19b5f5904eaca9ff5cbe3c5a6ed0617c0572d2932fb40fcbe4a9df74bf43"
+    },
+    {
+      "source": "outputs/pilot-remotion-v2.mp4",
+      "archive": "docs/reviews/evidence/pilot-remotion-v2.mp4",
+      "sha256": "502355d9b21ede42ae3da91ba4f31deb9e36390069f8587f7412a62ae4838aaa"
+    }
+  ]
+}

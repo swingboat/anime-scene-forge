@@ -1,0 +1,16 @@
+{
+  "backend": "built-in imagegen",
+  "modelVersion": "not exposed by host",
+  "source": "/Users/huyin/.codex/generated_images/01a1c85e-4e99-7a13-bc62-4d56b471c7b5/exec-227a5a30-1a80-4bb3-bbfc-9d34597b5898.png",
+  "original": "public/art/scene-01-original.png",
+  "originalSha256": "2a08081c73a6700b4449560651017d8da76120e5ee013fa2b341056994bff54e",
+  "style": "handpainted-film",
+  "styleSha256": "436456f93c45361f10efa533e001608f1c3c149c1d6fd0b6e61144b5c712b9b7",
+  "reference": "Original scene inspired by Hayao Miyazaki films; no film frame or preexisting character supplied.",
+  "sourceRetained": "Host image tool requires keeping original generated artifact; runtime uses only project copies.",
+  "promptFile": "docs/prompts/scene-01-image-tool.txt",
+  "promptSha256": "cb32f1097bda091358d95ee7a36a90210f20f09653d3c85dcb1644c8cd92265b",
+  "normalizedFile": "public/art/scene-01.png",
+  "normalizedSha256": "87d11502b914c327b2834eb570e7d7bcd0aa441a22987ca6631fb6102a3ab8c3",
+  "normalization": "Lanczos scale to native 1024x576, technical input normalization"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "scene-03",
+  "character": "xiaxia",
+  "text": "你还愿意陪我练？",
+  "emotion": "轻声向朋友询问，略带迟疑和期待，句尾自然上扬，正常语速，避免刻意气声。",
+  "characterDescription": "年轻女性，普通话标准自然，同一位十七岁中国女高中生，轻柔干净的少女声线，中高音域，内向认真且有一点害羞，口齿清晰，温柔细腻但有声带实音，亲密的日常对话，正常自然语速，不模仿任何已有演员，不夸张不幼童化。",
+  "language": "Chinese",
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16",
+  "revision": "7d3824abff87e49756bb0f83fb5411de75d160c4",
+  "seed": 112114,
+  "file": "public/audio/voices/scene-03-v1-raw.wav",
+  "sha256": "96251d6499ed927a4e2269b63b4842f985021c22d0eeb8660591716c53ec509c",
+  "sampleRate": 24000,
+  "seconds": 1.6,
+  "wallSeconds": 2.02
+}

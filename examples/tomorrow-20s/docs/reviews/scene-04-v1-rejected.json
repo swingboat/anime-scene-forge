@@ -1,0 +1,8 @@
+{
+  "candidate": "public/candidates/scene-04-v1.mp4",
+  "status": "rejected",
+  "visualReviewed": true,
+  "observations": "Viewed overview, all 96 face frames and full frame 12; visible gibberish English-like lettering appears under the face during speech. Mouth begins opening at frame5, while driver activity starts at frame8. Identity, hair and light are stable; smile/breathing and blink remain continuous.",
+  "correction": "Remove literal spoken quotation from video prompt; use positive plain-image description. Add clean closed-mouth scene guide at frames6 and72. Retain actual audio and normal speed.",
+  "userAccepted": false
+}

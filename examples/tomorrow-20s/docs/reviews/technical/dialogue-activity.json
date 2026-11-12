@@ -1,0 +1,72 @@
+[
+  {
+    "shot": "scene-01",
+    "voiceActivityGroups": [
+      {
+        "startFrame": 7,
+        "endFrameExclusive": 36
+      },
+      {
+        "startFrame": 65,
+        "endFrameExclusive": 85
+      }
+    ],
+    "scope": "Signal activity only; not phoneme boundaries or visual approval."
+  },
+  {
+    "shot": "scene-02",
+    "voiceActivityGroups": [
+      {
+        "startFrame": 10,
+        "endFrameExclusive": 31
+      },
+      {
+        "startFrame": 49,
+        "endFrameExclusive": 65
+      }
+    ],
+    "scope": "Signal activity only; not phoneme boundaries or visual approval."
+  },
+  {
+    "shot": "scene-03",
+    "voiceActivityGroups": [
+      {
+        "startFrame": 13,
+        "endFrameExclusive": 49
+      }
+    ],
+    "scope": "Signal activity only; not phoneme boundaries or visual approval."
+  },
+  {
+    "shot": "scene-04",
+    "voiceActivityGroups": [
+      {
+        "startFrame": 8,
+        "endFrameExclusive": 16
+      },
+      {
+        "startFrame": 37,
+        "endFrameExclusive": 46
+      },
+      {
+        "startFrame": 53,
+        "endFrameExclusive": 62
+      }
+    ],
+    "scope": "Signal activity only; not phoneme boundaries or visual approval."
+  },
+  {
+    "shot": "scene-05",
+    "voiceActivityGroups": [
+      {
+        "startFrame": 11,
+        "endFrameExclusive": 20
+      },
+      {
+        "startFrame": 44,
+        "endFrameExclusive": 67
+      }
+    ],
+    "scope": "Signal activity only; not phoneme boundaries or visual approval."
+  }
+]

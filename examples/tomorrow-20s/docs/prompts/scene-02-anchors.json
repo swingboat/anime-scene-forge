@@ -1,0 +1,14 @@
+[
+  {
+    "image": "public/art/aqing-medium.png",
+    "frame": 8,
+    "strength": 1.0,
+    "binding": "guide"
+  },
+  {
+    "image": "public/art/aqing-medium.png",
+    "frame": 47,
+    "strength": 1.0,
+    "binding": "guide"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "clipSha256": "c73b04053c328a4ce06f079978856ae7ae03467c08fb27bfbec7e67a491305d5",
+  "visualReviewed": true,
+  "normalSpeedReviewed": true,
+  "reviewer": "Codex agent",
+  "reviewedAt": "2026-11-11T11:39:11.448411",
+  "observations": "Viewed all96 full frames and all96 face frames. First opening around frame10-11 matches voice activity11, closure around21 through long pause, second speech group begins44 near actual44; closes around67 after voice group67. Starting hopeful gaze toward screen right, subtle shoulders/breath easing, growing closed-lip smile after the line. Final second contains warm closed smile and a natural blink, with a small inward head turn near the very end. Same bob, cardigan, facial identity, seat and sunset. No generated text or extra features. Full4-second nonlooping Studio1x playback completed.",
+  "limitations": "Hands not visible in this close-up. End gaze turns slightly inward instead of holding a rigid profile. Agent cannot directly hear delivery or certify each phoneme; broad timing is assessed from actual frames plus the supplied waveform. User acceptance pending.",
+  "artifacts": [
+    "docs/reviews/evidence/scene-05/face-all-frames.jpg",
+    "docs/reviews/evidence/scene-05/overview-every-fourth.jpg",
+    "docs/reviews/evidence/scene-05/all-frames.jpg",
+    "docs/reviews/evidence/scene-05/sheet-index.json"
+  ],
+  "userAccepted": false,
+  "originalArtifacts": [
+    "outputs/checks/scene-05/c73b04053c/all-frames.jpg",
+    "outputs/checks/scene-05/c73b04053c/face-all-frames.jpg"
+  ]
+}

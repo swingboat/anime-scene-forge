@@ -1,0 +1,19 @@
+{
+  "status": "internal-pass",
+  "reviewer": "Codex agent",
+  "visualReviewed": true,
+  "normalSpeedReviewed": true,
+  "reviewedMovieSha256BeforeAudioTailTrim": "90b77e044ed791c205b170347cf892b69b7e446c31e6c6992b93937d66ec5432",
+  "movieSha256AfterAudioTailTrim": "d0b2b8c1980d09e45be103a3a8713b0aaf935e940ef1f665b4bde77779507670",
+  "observations": "All5x96 source frames reviewed per shot; full export storyboard, five subtitle keyframes and all four cut boundary pairs inspected. Chinese text is correct, fully visible and placed consistently. Same characters, wardrobe, seated axis and left sunset across cuts. No missing footage, loops, freezes or speed changes.20-second native browser playback reached end at1x; final smiling frame observed.",
+  "audioTailCorrection": "Original AAC stream had11ms encoder tail; trimmed to exact20 seconds by video stream copy and320kbps AAC audio reencode. Dialogue placement and tempo unchanged. Video pictures are unchanged by this mux step.",
+  "limitations": "Agent cannot directly listen; voice tone and detailed phoneme matching remain for user auditory review. Scene03 includes a shy lowered gaze after its hopeful question. Final shots have slight inward head turns.",
+  "artifacts": [
+    "docs/reviews/evidence/full-film/storyboard.jpg",
+    "docs/reviews/evidence/full-film/captions.jpg",
+    "docs/reviews/evidence/full-film/cuts.jpg"
+  ],
+  "userAccepted": false,
+  "finalMovieSha256": "d0b2b8c1980d09e45be103a3a8713b0aaf935e940ef1f665b4bde77779507670",
+  "finalMovie": "outputs/final.mp4"
+}

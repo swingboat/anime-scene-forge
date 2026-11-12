@@ -1,0 +1,25 @@
+{
+  "file": "outputs/review-candidate.mp4",
+  "sha256": "6c38cc3be9afb98c5e6f0a86118ce5421862b601be70e7aa4d13c81a8511eb2e",
+  "styleSha256": "436456f93c45361f10efa533e001608f1c3c149c1d6fd0b6e61144b5c712b9b7",
+  "reviewer": "Codex actual frame and IAB1x playback inspection,2026-11-12",
+  "normalSpeedReviewed": true,
+  "rate": 1,
+  "muted": false,
+  "duration": 12,
+  "ended": true,
+  "error": null,
+  "startedAt": "2026-11-12T02:17:53.112Z",
+  "endedAt": "2026-11-12T02:18:05.201Z",
+  "observations": [
+    "整片从0到12秒以1倍速播放，依次出现远景、侧面全身跟拍、斜后方滑远三个镜头，4秒/8秒两个直接剪辑接点未翻转方向。",
+    "女孩发型与米黄/蓝/白服装、木色板持续一致；左侧山体、道路远侧大海、左上光向形成连贯空间。",
+    "完整镜头覆盖的全288帧已逐帧检查，重点放大脚/板/轮接触；无静图轮播、后期冻结、循环、倒放或变速补时。",
+    "收尾女孩逐渐变小、海天留白增加；未加入字幕、对白、片头或音乐。"
+  ],
+  "limitations": [
+    "沿用各镜头已记录的细笔触波动、侧面末端花穗遮轮、望海动作很轻和开场女孩已位于画内左侧。",
+    "不静音播放仅证明音轨正常输出路径，不代表代理具备人耳听感验收能力。"
+  ],
+  "userAccepted": false
+}

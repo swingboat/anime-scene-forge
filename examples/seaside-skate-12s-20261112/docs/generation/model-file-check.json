@@ -1,0 +1,168 @@
+{
+  "status": "size/path/independent-inode-pass",
+  "downloadedModels": false,
+  "files": [
+    {
+      "file": ".cache/models/ltx-q4/LICENSE",
+      "expectedBytes": 19197,
+      "actualBytes": 19197,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/config.json",
+      "expectedBytes": 951,
+      "actualBytes": 951,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/connector.safetensors",
+      "expectedBytes": 6344495512,
+      "actualBytes": 6344495512,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/embedded_config.json",
+      "expectedBytes": 7234,
+      "actualBytes": 7234,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/quantize_config.json",
+      "expectedBytes": 100,
+      "actualBytes": 100,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/spatial_upscaler_x2_v1_1.safetensors",
+      "expectedBytes": 995745061,
+      "actualBytes": 995745061,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/spatial_upscaler_x2_v1_1_config.json",
+      "expectedBytes": 275,
+      "actualBytes": 275,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/split_model.json",
+      "expectedBytes": 1893,
+      "actualBytes": 1893,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/transformer-distilled-1.1.safetensors",
+      "expectedBytes": 11322002285,
+      "actualBytes": 11322002285,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/vae_decoder.safetensors",
+      "expectedBytes": 814349531,
+      "actualBytes": 814349531,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/vae_encoder.safetensors",
+      "expectedBytes": 637885319,
+      "actualBytes": 637885319,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/audio_vae.safetensors",
+      "expectedBytes": 106509048,
+      "actualBytes": 106509048,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/ltx-q4/vocoder.safetensors",
+      "expectedBytes": 258313851,
+      "actualBytes": 258313851,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/README.md",
+      "expectedBytes": 945,
+      "actualBytes": 945,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/added_tokens.json",
+      "expectedBytes": 35,
+      "actualBytes": 35,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/chat_template.json",
+      "expectedBytes": 1615,
+      "actualBytes": 1615,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/config.json",
+      "expectedBytes": 1141,
+      "actualBytes": 1141,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/generation_config.json",
+      "expectedBytes": 192,
+      "actualBytes": 192,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/model-00001-of-00002.safetensors",
+      "expectedBytes": 5367455313,
+      "actualBytes": 5367455313,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/model-00002-of-00002.safetensors",
+      "expectedBytes": 2661219935,
+      "actualBytes": 2661219935,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/model.safetensors.index.json",
+      "expectedBytes": 108605,
+      "actualBytes": 108605,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/preprocessor_config.json",
+      "expectedBytes": 570,
+      "actualBytes": 570,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/processor_config.json",
+      "expectedBytes": 70,
+      "actualBytes": 70,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/special_tokens_map.json",
+      "expectedBytes": 662,
+      "actualBytes": 662,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/tokenizer.json",
+      "expectedBytes": 33384568,
+      "actualBytes": 33384568,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/tokenizer.model",
+      "expectedBytes": 4689074,
+      "actualBytes": 4689074,
+      "regularIndependentFile": true
+    },
+    {
+      "file": ".cache/models/gemma-q4/tokenizer_config.json",
+      "expectedBytes": 1157007,
+      "actualBytes": 1157007,
+      "regularIndependentFile": true
+    }
+  ]
+}
